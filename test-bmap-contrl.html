@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>BMap</title>
+    <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+
+        .anchorBL, .BMap_cpyCtrl {
+            display: none;
+        }
+
+        .BMap_stdMpZoom {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<div id="map"></div>
+<script type="text/javascript">
+  function init() {
+    const MapOptions = {
+      minZoom: 8,
+      maxZoom: 15,
+      mapType: BMAP_NORMAL_MAP,
+    }
+    const map = new BMapGL.Map('map', MapOptions)
+    const point = new BMapGL.Point(114.064552, 22.548457)// 深圳
+    map.centerAndZoom(point, 11)
+    map.enableScrollWheelZoom(true)
+    map.setHeading(0)
+    map.setTilt(0)
+    // 添加控件
+    const zoomCtrl = new BMapGL.ZoomControl({
+      anchor: BMAP_ANCHOR_BOTTOM_LEFT,
+      offset: new BMapGL.Size(0, 0),
+    })
+    map.addControl(zoomCtrl)
+
+    const scaleCtrl = new BMapGL.ScaleControl({
+      anchor: BMAP_ANCHOR_TOP_LEFT,
+    })
+    map.addControl(scaleCtrl)
+    // 添加事件
+    map.addEventListener('zoomstart', function () {
+      console.log('当前缩放级别：', map.getZoom())
+    })
+
+    map.addEventListener('zoomend', function () {
+      console.log('当前缩放级别：', map.getZoom())
+    })
+  }
+
+  //https://api.map.baidu.com/api?v=1.0&type=webgl&ak=2bmncLvRzj6711pQ0LQnbfciTAe6CvLz
+
+  window.onload = function () {
+    var script = document.createElement('script')
+    script.src = 'https://api.map.baidu.com/api?v=1.0&type=webgl&ak=2bmncLvRzj6711pQ0LQnbfciTAe6CvLz&callback=init'
+    document.body.appendChild(script)
+  }
+</script>
+</body>
+</html>
