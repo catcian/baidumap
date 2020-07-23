@@ -4,6 +4,7 @@
  */
 const banksDict = [{
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '前海分行',
   'fullName': '工商银行前海分行',
   'value': ['113.901672', '22.515729'],
@@ -14,6 +15,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '孖洲岛社区支行',
   'fullName': '工商银行深圳孖洲岛社区支行',
   'value': ['113.850538', '22.495133'],
@@ -24,6 +26,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '八卦岭支行',
   'fullName': '工商银行深圳八卦岭支行',
   'value': ['114.095372', '22.560658'],
@@ -34,6 +37,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '百合支行',
   'fullName': '工商银行深圳百合支行',
   'value': ['114.120554', '22.598225'],
@@ -44,6 +48,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '百花支行',
   'fullName': '工商银行深圳百花支行',
   'value': ['114.092708', '22.551768'],
@@ -54,6 +59,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '百仕达支行',
   'fullName': '工商银行深圳百仕达支行',
   'value': ['114.135463', '22.571991'],
@@ -64,6 +70,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '保税区支行',
   'fullName': '工商银行深圳保税区支行',
   'value': ['114.239387', '22.557056'],
@@ -74,6 +81,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '宝安支行',
   'fullName': '工商银行深圳宝安支行',
   'value': ['113.909823', '22.558194'],
@@ -84,6 +92,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '宝安中心区支行',
   'fullName': '工商银行深圳宝安中心区支行',
   'value': ['113.886776', '22.552276'],
@@ -94,6 +103,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '宝湖支行',
   'fullName': '工商银行深圳宝湖支行',
   'value': ['114.122066', '22.55709'],
@@ -104,6 +114,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '宝华支行',
   'fullName': '工商银行深圳宝华支行',
   'value': ['114.087384', '22.542039'],
@@ -114,6 +125,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '宝中支行',
   'fullName': '工商银行深圳宝中支行',
   'value': ['113.87466', '22.55499'],
@@ -124,6 +136,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '滨河支行',
   'fullName': '工商银行深圳滨河支行',
   'value': ['114.026607', '22.527519'],
@@ -134,6 +147,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '布吉支行',
   'fullName': '工商银行深圳布吉支行',
   'value': ['114.116767', '22.600963'],
@@ -144,6 +158,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '彩田支行',
   'fullName': '工商银行深圳彩田支行',
   'value': ['114.062307', '22.560773'],
@@ -154,6 +169,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '车公庙支行',
   'fullName': '工商银行深圳车公庙支行',
   'value': ['114.030903', '22.531917'],
@@ -164,6 +180,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '臣田支行',
   'fullName': '工商银行深圳臣田支行',
   'value': ['113.874276', '22.592352'],
@@ -174,6 +191,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '赤湾支行',
   'fullName': '工商银行深圳赤湾支行',
   'value': ['113.890953', '22.478594'],
@@ -184,6 +202,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '翠竹北支行',
   'fullName': '工商银行深圳翠竹北支行',
   'value': ['114.130162', '22.56011'],
@@ -194,6 +213,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '大浪支行',
   'fullName': '工商银行深圳大浪支行',
   'value': ['113.993553', '22.674092'],
@@ -204,6 +224,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '东环支行',
   'fullName': '工商银行深圳东环支行',
   'value': ['114.045552', '22.643098'],
@@ -214,6 +235,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '东门支行',
   'fullName': '工商银行深圳东门支行',
   'value': ['114.131727', '22.548964'],
@@ -224,6 +246,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '福虹支行',
   'fullName': '工商银行深圳福虹支行',
   'value': ['114.085415', '22.538953'],
@@ -234,6 +257,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '福民支行',
   'fullName': '工商银行深圳福民支行',
   'value': ['114.057124', '22.525447'],
@@ -244,6 +268,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '福强支行',
   'fullName': '工商银行深圳福强支行',
   'value': ['114.059037', '22.514667'],
@@ -254,6 +279,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '福田口岸支行',
   'fullName': '工商银行深圳福田口岸支行',
   'value': ['114.069522', '22.516509'],
@@ -264,6 +290,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '福田支行',
   'fullName': '工商银行深圳福田支行',
   'value': ['114.068713', '22.529922'],
@@ -274,6 +301,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '福永支行',
   'fullName': '工商银行深圳福永支行',
   'value': ['113.825666', '22.672198'],
@@ -284,6 +312,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '福园支行',
   'fullName': '工商银行深圳福园支行',
   'value': ['114.087637', '22.538192'],
@@ -294,6 +323,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '富士康支行',
   'fullName': '工商银行深圳富士康支行',
   'value': ['114.01353', '22.737432'],
@@ -304,6 +334,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '岗厦支行',
   'fullName': '工商银行深圳岗厦支行',
   'value': ['114.067668', '22.534351'],
@@ -314,6 +345,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '高新园北区支行',
   'fullName': '工商银行深圳高新园北区支行',
   'value': ['113.949861', '22.555656'],
@@ -324,6 +356,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '高新园南区支行',
   'fullName': '工商银行深圳高新园南区支行',
   'value': ['113.944897', '22.536813'],
@@ -334,6 +367,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '高新园支行',
   'fullName': '工商银行深圳高新园支行',
   'value': ['113.952429', '22.537847'],
@@ -344,6 +378,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '高新园中区支行',
   'fullName': '工商银行深圳高新园中区支行',
   'value': ['113.935346', '22.540412'],
@@ -354,6 +389,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '工业区支行',
   'fullName': '工商银行深圳工业区支行',
   'value': ['113.919993', '22.494409'],
@@ -364,6 +400,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '公明支行',
   'fullName': '工商银行深圳公明支行',
   'value': ['113.907748', '22.779325'],
@@ -374,6 +411,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '观澜湖支行',
   'fullName': '工商银行深圳观澜湖支行',
   'value': ['114.077089', '22.723624'],
@@ -384,6 +422,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '观澜支行',
   'fullName': '工商银行深圳观澜支行',
   'value': ['114.047805', '22.695488'],
@@ -394,6 +433,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '光明支行',
   'fullName': '工商银行深圳光明支行',
   'value': ['113.942161', '22.754173'],
@@ -404,6 +444,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '桂园支行',
   'fullName': '工商银行深圳桂园支行',
   'value': ['114.112943', '22.546285'],
@@ -414,6 +455,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '国财支行',
   'fullName': '工商银行深圳国财支行',
   'value': ['114.07095', '22.544393'],
@@ -424,6 +466,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '国贸支行',
   'fullName': '工商银行深圳国贸支行',
   'value': ['114.119508', '22.540697'],
@@ -434,6 +477,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '海岸城支行',
   'fullName': '工商银行深圳海岸城支行',
   'value': ['113.937364', '22.518419'],
@@ -444,6 +488,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '海王支行',
   'fullName': '工商银行深圳海王支行',
   'value': ['113.92643', '22.515755'],
@@ -454,6 +499,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '和平支行',
   'fullName': '工商银行深圳和平支行',
   'value': ['114.113524', '22.538497'],
@@ -464,6 +510,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '合水口支行',
   'fullName': '工商银行深圳合水口支行',
   'value': ['113.889344', '22.780887'],
@@ -474,6 +521,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '横岗支行',
   'fullName': '工商银行深圳横岗支行',
   'value': ['114.186273', '22.637532'],
@@ -484,6 +532,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '鸿海支行',
   'fullName': '工商银行深圳鸿海支行',
   'value': ['114.05122', '22.653158'],
@@ -494,6 +543,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '鸿翔支行',
   'fullName': '工商银行深圳鸿翔支行',
   'value': ['114.107041', '22.554543'],
@@ -504,6 +554,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '洪湖支行',
   'fullName': '工商银行深圳洪湖支行',
   'value': ['114.127942', '22.566477'],
@@ -514,6 +565,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '弘雅支行',
   'fullName': '工商银行深圳弘雅支行',
   'value': ['113.89367', '22.573721'],
@@ -524,6 +576,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '红宝支行',
   'fullName': '工商银行深圳红宝支行',
   'value': ['114.10541', '22.544958'],
@@ -534,6 +587,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '红围支行',
   'fullName': '工商银行深圳红围支行',
   'value': ['114.11015', '22.542559'],
@@ -544,6 +598,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '湖贝支行',
   'fullName': '工商银行深圳湖贝支行',
   'value': ['114.128871', '22.54594'],
@@ -554,6 +609,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '华城支行',
   'fullName': '工商银行深圳华城支行',
   'value': ['114.117568', '22.545704'],
@@ -564,6 +620,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '华联支行',
   'fullName': '工商银行深圳华联支行',
   'value': ['114.092202', '22.541258'],
@@ -574,6 +631,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '华南城支行',
   'fullName': '工商银行深圳华南城支行',
   'value': ['114.126796', '22.675306'],
@@ -584,6 +642,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '华强支行',
   'fullName': '工商银行深圳华强支行',
   'value': ['114.08825', '22.540888'],
@@ -594,6 +653,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '华侨城支行',
   'fullName': '工商银行深圳华侨城支行',
   'value': ['113.98952', '22.534155'],
@@ -604,6 +664,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '华为支行',
   'fullName': '工商银行深圳华为支行',
   'value': ['114.064421', '22.651314'],
@@ -614,6 +675,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '欢乐海岸支行',
   'fullName': '工商银行深圳欢乐海岸支行',
   'value': ['113.987209', '22.52506'],
@@ -624,6 +686,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '黄贝支行',
   'fullName': '工商银行深圳黄贝支行',
   'value': ['114.1414', '22.554023'],
@@ -634,6 +697,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '黄木岗支行',
   'fullName': '工商银行深圳黄木岗支行',
   'value': ['114.081962', '22.555332'],
@@ -644,6 +708,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '皇岗支行',
   'fullName': '工商银行深圳皇岗支行',
   'value': ['114.076186', '22.525911'],
@@ -654,6 +719,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '景田支行',
   'fullName': '工商银行深圳景田支行',
   'value': ['114.043916', '22.553692'],
@@ -664,6 +730,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '双龙支行',
   'fullName': '工商银行深圳双龙支行',
   'value': ['114.271095', '22.726024'],
@@ -674,6 +741,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '葵涌支行',
   'fullName': '工商银行深圳葵涌支行',
   'value': ['114.421464', '22.63225'],
@@ -684,6 +752,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '李朗支行',
   'fullName': '工商银行深圳李朗支行',
   'value': ['114.127121', '22.642905'],
@@ -694,6 +763,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '丽景支行',
   'fullName': '工商银行深圳丽景支行',
   'value': ['113.883096', '22.59096'],
@@ -704,6 +774,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '莲花北支行',
   'fullName': '工商银行深圳莲花北支行',
   'value': ['114.04927', '22.55823'],
@@ -714,6 +785,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '莲塘支行',
   'fullName': '工商银行深圳莲塘支行',
   'value': ['114.169635', '22.561843'],
@@ -724,6 +796,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '龙城支行',
   'fullName': '工商银行深圳龙城支行',
   'value': ['114.216732', '22.721931'],
@@ -734,6 +807,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '龙东支行',
   'fullName': '工商银行深圳龙东支行',
   'value': ['114.296303', '22.722569'],
@@ -744,6 +818,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '龙岗支行',
   'fullName': '工商银行深圳龙岗支行',
   'value': ['114.237538', '22.710959'],
@@ -754,6 +829,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '龙华支行',
   'fullName': '工商银行深圳龙华支行',
   'value': ['114.024147', '22.652065'],
@@ -764,6 +840,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '龙平支行',
   'fullName': '工商银行深圳龙平支行',
   'value': ['114.231964', '22.729605'],
@@ -774,6 +851,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '龙翔支行',
   'fullName': '工商银行深圳龙翔支行',
   'value': ['114.251416', '22.721599'],
@@ -784,6 +862,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '楼岗支行',
   'fullName': '工商银行深圳楼岗支行',
   'value': ['113.851951', '22.7646'],
@@ -794,6 +873,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '罗湖口岸支行',
   'fullName': '工商银行深圳罗湖口岸支行',
   'value': ['114.11875', '22.53028'],
@@ -804,6 +884,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '罗湖支行',
   'fullName': '工商银行深圳罗湖支行',
   'value': ['114.118019', '22.541544'],
@@ -814,6 +895,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '梅林一村支行',
   'fullName': '工商银行深圳梅林一村支行',
   'value': ['114.038992', '22.56526'],
@@ -824,6 +906,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '梅林支行',
   'fullName': '工商银行深圳梅林支行',
   'value': ['114.061349', '22.570227'],
@@ -834,6 +917,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '免税大厦支行',
   'fullName': '工商银行深圳免税大厦支行',
   'value': ['114.055437', '22.537185'],
@@ -844,6 +928,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '民治支行',
   'fullName': '工商银行深圳民治支行',
   'value': ['114.033644', '22.620412'],
@@ -854,6 +939,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '南岭支行',
   'fullName': '工商银行深圳南岭支行',
   'value': ['114.139954', '22.607673'],
@@ -864,6 +950,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '南山支行',
   'fullName': '工商银行深圳南山支行',
   'value': ['113.9191', '22.530754'],
@@ -874,6 +961,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '南新支行',
   'fullName': '工商银行深圳南新支行',
   'value': ['113.923647', '22.522902'],
@@ -884,6 +972,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '南油支行',
   'fullName': '工商银行深圳南油支行',
   'value': ['113.925202', '22.5072'],
@@ -894,6 +983,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '坪地支行',
   'fullName': '工商银行深圳坪地支行',
   'value': ['114.300841', '22.770374'],
@@ -904,6 +994,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '坪山支行',
   'fullName': '工商银行深圳坪山支行',
   'value': ['114.336268', '22.682184'],
@@ -914,6 +1005,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '平湖支行',
   'fullName': '工商银行深圳平湖支行',
   'value': ['114.141634', '22.696877'],
@@ -924,6 +1016,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '前进路支行',
   'fullName': '工商银行深圳前进路支行',
   'value': ['113.904903', '22.569508'],
@@ -934,6 +1027,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '桥头支行',
   'fullName': '工商银行深圳桥头支行',
   'value': ['113.802573', '22.688844'],
@@ -944,6 +1038,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '侨城西街支行',
   'fullName': '工商银行深圳侨城西街支行',
   'value': ['113.983061', '22.537151'],
@@ -954,6 +1049,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '侨香支行',
   'fullName': '工商银行深圳侨香支行',
   'value': ['114.021249', '22.540371'],
@@ -964,6 +1060,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '荣德支行',
   'fullName': '工商银行深圳荣德支行',
   'value': ['114.208398', '22.649236'],
@@ -974,6 +1071,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '软件园支行',
   'fullName': '工商银行深圳软件园支行',
   'value': ['113.93821', '22.52336'],
@@ -984,6 +1082,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '沙井支行',
   'fullName': '工商银行深圳沙井支行',
   'value': ['113.809461', '22.7324'],
@@ -994,6 +1093,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '上步支行',
   'fullName': '工商银行深圳上步支行',
   'value': ['114.094908', '22.548776'],
@@ -1004,6 +1104,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '上南支行',
   'fullName': '工商银行深圳上南支行',
   'value': ['113.841918', '22.721498'],
@@ -1014,6 +1115,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '尚都支行',
   'fullName': '工商银行深圳尚都支行',
   'value': ['113.886637', '22.559502'],
@@ -1024,6 +1126,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '蛇口支行',
   'fullName': '工商银行深圳蛇口支行',
   'value': ['113.922439', '22.489927'],
@@ -1034,6 +1137,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '深东支行',
   'fullName': '工商银行深圳深东支行',
   'value': ['114.128115', '22.544183'],
@@ -1044,6 +1148,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '深港支行',
   'fullName': '工商银行深圳深港支行',
   'value': ['114.108771', '22.561277'],
@@ -1054,6 +1159,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '深圳湾支行',
   'fullName': '工商银行深圳深圳湾支行',
   'value': ['114.045519', '22.540638'],
@@ -1064,6 +1170,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '生态园支行',
   'fullName': '工商银行深圳生态园支行',
   'value': ['113.953025', '22.529822'],
@@ -1074,6 +1181,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '石岩支行',
   'fullName': '工商银行深圳石岩支行',
   'value': ['113.936472', '22.679936'],
@@ -1084,6 +1192,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '深圳市分行',
   'fullName': '工商银行深圳市分行',
   'value': ['114.10763', '22.536208'],
@@ -1094,6 +1203,7 @@ const banksDict = [{
   'type': '分行营业部',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '市民中心支行',
   'fullName': '工商银行深圳市民中心支行',
   'value': ['114.062799', '22.54589'],
@@ -1104,6 +1214,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '水贝支行',
   'fullName': '工商银行深圳水贝支行',
   'value': ['114.126694', '22.570965'],
@@ -1114,6 +1225,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '水榭春天支行',
   'fullName': '工商银行深圳水榭春天支行',
   'value': ['114.026898', '22.627255'],
@@ -1124,6 +1236,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '松岗支行',
   'fullName': '工商银行深圳松岗支行',
   'value': ['113.845634', '22.765961'],
@@ -1134,6 +1247,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '台湾花园支行',
   'fullName': '工商银行深圳台湾花园支行',
   'value': ['114.102368', '22.536723'],
@@ -1144,6 +1258,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '太古城支行',
   'fullName': '工商银行深圳太古城支行',
   'value': ['113.939766', '22.499395'],
@@ -1154,6 +1269,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '塘尾支行',
   'fullName': '工商银行深圳塘尾支行',
   'value': ['113.800382', '22.706606'],
@@ -1164,6 +1280,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '桃园支行',
   'fullName': '工商银行深圳桃园支行',
   'value': ['113.922768', '22.532693'],
@@ -1174,6 +1291,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '网谷支行',
   'fullName': '工商银行深圳网谷支行',
   'value': ['113.915785', '22.490134'],
@@ -1184,6 +1302,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '文锦支行',
   'fullName': '工商银行深圳文锦支行',
   'value': ['114.121648', '22.541495'],
@@ -1194,6 +1313,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '熙龙湾支行',
   'fullName': '工商银行深圳熙龙湾支行',
   'value': ['113.888087', '22.548602'],
@@ -1204,6 +1324,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '西海岸支行',
   'fullName': '工商银行深圳西海岸支行',
   'value': ['113.933367', '22.51445'],
@@ -1214,6 +1335,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '西丽支行',
   'fullName': '工商银行深圳西丽支行',
   'value': ['113.953022', '22.581047'],
@@ -1224,6 +1346,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '西乡支行',
   'fullName': '工商银行深圳西乡支行',
   'value': ['113.863202', '22.574537'],
@@ -1234,6 +1357,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '喜年支行',
   'fullName': '工商银行深圳喜年支行',
   'value': ['114.023722', '22.534823'],
@@ -1244,6 +1368,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '香梅支行',
   'fullName': '工商银行深圳香梅支行',
   'value': ['114.038093', '22.547781'],
@@ -1254,6 +1379,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '新澜支行',
   'fullName': '工商银行深圳新澜支行',
   'value': ['114.05505', '22.71843'],
@@ -1264,6 +1390,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '新沙支行',
   'fullName': '工商银行深圳新沙支行',
   'value': ['113.82983', '22.729181'],
@@ -1274,6 +1401,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '星海名城支行',
   'fullName': '工商银行深圳星海名城支行',
   'value': ['113.92107', '22.54254'],
@@ -1284,6 +1412,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '星河支行',
   'fullName': '工商银行深圳星河支行',
   'value': ['114.053269', '22.531591'],
@@ -1294,6 +1423,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '盐田港区支行',
   'fullName': '工商银行深圳盐田港区支行',
   'value': ['114.251272', '22.588412'],
@@ -1304,6 +1434,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '盐田支行',
   'fullName': '工商银行深圳盐田支行',
   'value': ['114.230852', '22.548123'],
@@ -1314,6 +1445,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '一达通支行',
   'fullName': '工商银行深圳一达通支行',
   'value': ['113.942', '22.508892'],
@@ -1324,6 +1456,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '益田村支行',
   'fullName': '工商银行深圳益田村支行',
   'value': ['114.050444', '22.512656'],
@@ -1334,6 +1467,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '益田支行',
   'fullName': '工商银行深圳益田支行',
   'value': ['114.044925', '22.518369'],
@@ -1344,6 +1478,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '友谊支行',
   'fullName': '工商银行深圳友谊支行',
   'value': ['114.119297', '22.537522'],
@@ -1354,6 +1489,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '园岭支行',
   'fullName': '工商银行深圳园岭支行',
   'value': ['114.098514', '22.551935'],
@@ -1364,6 +1500,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '月亮湾支行',
   'fullName': '工商银行深圳月亮湾支行',
   'value': ['113.893178', '22.494206'],
@@ -1374,6 +1511,7 @@ const banksDict = [{
   'type': '轻型/社区网点(待定)',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '振华支行',
   'fullName': '工商银行深圳振华支行',
   'value': ['114.083587', '22.544058'],
@@ -1384,6 +1522,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '中心区支行',
   'fullName': '工商银行深圳中心区支行',
   'value': ['114.05315', '22.54143'],
@@ -1394,6 +1533,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '中英街支行',
   'fullName': '工商银行深圳中英街支行',
   'value': ['114.231732', '22.543652'],
@@ -1404,6 +1544,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '竹子林支行',
   'fullName': '工商银行深圳竹子林支行',
   'value': ['114.0107', '22.534716'],
@@ -1414,6 +1555,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '卓越时代广场支行',
   'fullName': '工商银行深圳卓越时代广场支行',
   'value': ['114.05687', '22.53451'],
@@ -1424,6 +1566,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '坂田支行',
   'fullName': '工商银行深圳坂田支行',
   'value': ['114.060497', '22.639115'],
@@ -1434,6 +1577,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '麒麟支行',
   'fullName': '工商银行深圳麒麟支行',
   'value': ['113.928321', '22.545965'],
@@ -1444,6 +1588,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '华润城支行',
   'fullName': '工商银行深圳华润城支行',
   'value': ['113.954327', '22.543161'],
@@ -1454,6 +1599,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '万象汇支行',
   'fullName': '工商银行深圳万象汇支行',
   'value': ['114.130574', '22.591468'],
@@ -1464,6 +1610,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '工商银行',
+  'category': 'icbc',
   'name': '雅宝支行',
   'fullName': '工商银行深圳雅宝支行',
   'value': ['114.059230', '22.604645'],
@@ -1474,6 +1621,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '前海分行',
   'fullName': '农业银行前海分行',
   'value': ['113.900849', '22.514936'],
@@ -1484,6 +1632,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '爱联支行',
   'fullName': '农业银行深圳爱联支行',
   'value': ['114.229206', '22.698501'],
@@ -1494,6 +1643,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '八卦岭支行',
   'fullName': '农业银行深圳八卦岭支行',
   'value': ['114.102866', '22.559013'],
@@ -1504,6 +1654,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '白石洲支行',
   'fullName': '农业银行深圳白石洲支行',
   'value': ['113.968313', '22.540645'],
@@ -1514,6 +1665,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '宝安路支行',
   'fullName': '农业银行深圳宝安路支行',
   'value': ['114.108849', '22.560306'],
@@ -1524,6 +1676,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '宝安支行',
   'fullName': '农业银行深圳宝安支行',
   'value': ['113.910609', '22.55749'],
@@ -1534,6 +1687,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '宝安中心区支行',
   'fullName': '农业银行深圳宝安中心区支行',
   'value': ['113.886576', '22.548909'],
@@ -1544,6 +1698,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '滨海支行',
   'fullName': '农业银行深圳滨海支行',
   'value': ['113.950318', '22.525655'],
@@ -1554,6 +1709,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '布吉支行',
   'fullName': '农业银行深圳布吉支行',
   'value': ['114.117855', '22.605354'],
@@ -1564,6 +1720,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '彩田支行',
   'fullName': '农业银行深圳彩田支行',
   'value': ['114.059708', '22.570736'],
@@ -1574,6 +1731,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '长城支行',
   'fullName': '农业银行深圳长城支行',
   'value': ['114.09244', '22.551246'],
@@ -1584,6 +1742,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '车公庙支行',
   'fullName': '农业银行深圳车公庙支行',
   'value': ['114.023106', '22.531566'],
@@ -1594,6 +1753,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '翠竹支行',
   'fullName': '农业银行深圳翠竹支行',
   'value': ['114.129209', '22.569833'],
@@ -1604,6 +1764,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '大鹏支行',
   'fullName': '农业银行深圳大鹏支行',
   'value': ['114.475299', '22.594013'],
@@ -1614,6 +1775,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '大新支行',
   'fullName': '农业银行深圳大新支行',
   'value': ['113.922034', '22.531533'],
@@ -1624,6 +1786,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '大学城支行',
   'fullName': '农业银行深圳大学城支行',
   'value': ['113.964534', '22.587276'],
@@ -1634,6 +1797,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '地王支行',
   'fullName': '农业银行深圳地王支行',
   'value': ['114.110562', '22.542693'],
@@ -1644,6 +1808,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '东部支行',
   'fullName': '农业银行深圳东部支行',
   'value': ['114.238983', '22.555548'],
@@ -1654,6 +1819,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '东方支行',
   'fullName': '农业银行深圳东方支行',
   'value': ['113.855773', '22.760878'],
@@ -1664,6 +1830,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '东海支行',
   'fullName': '农业银行深圳东海支行',
   'value': ['114.025277', '22.537257'],
@@ -1674,6 +1841,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '东湖支行',
   'fullName': '农业银行深圳东湖支行',
   'value': ['114.143508', '22.577435'],
@@ -1684,6 +1852,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '东门支行',
   'fullName': '农业银行深圳东门支行',
   'value': ['114.119218', '22.546741'],
@@ -1694,6 +1863,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '东盛支行',
   'fullName': '农业银行深圳东盛支行',
   'value': ['114.125818', '22.576832'],
@@ -1704,6 +1874,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '东塘支行',
   'fullName': '农业银行深圳东塘支行',
   'value': ['113.811812', '22.732381'],
@@ -1714,6 +1885,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '凤凰支行',
   'fullName': '农业银行深圳凤凰支行',
   'value': ['114.06494', '22.541446'],
@@ -1724,6 +1896,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '福海支行',
   'fullName': '农业银行深圳福海支行',
   'value': ['113.78881', '22.688092'],
@@ -1734,6 +1907,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '福田保税区支行',
   'fullName': '农业银行深圳福田保税区支行',
   'value': ['114.056151', '22.508694'],
@@ -1744,6 +1918,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '福田口岸支行',
   'fullName': '农业银行深圳福田口岸支行',
   'value': ['114.065197', '22.519258'],
@@ -1754,6 +1929,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '福田支行',
   'fullName': '农业银行深圳福田支行',
   'value': ['114.06867', '22.531576'],
@@ -1764,6 +1940,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '福永支行',
   'fullName': '农业银行深圳福永支行',
   'value': ['113.821854', '22.67025'],
@@ -1774,6 +1951,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '富通城支行',
   'fullName': '农业银行深圳富通城支行',
   'value': ['113.855455', '22.568348'],
@@ -1784,6 +1962,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '高新区支行',
   'fullName': '农业银行深圳高新区支行',
   'value': ['113.952684', '22.536796'],
@@ -1794,6 +1973,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '公明支行',
   'fullName': '农业银行深圳公明支行',
   'value': ['113.894466', '22.780648'],
@@ -1804,6 +1984,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '公园大地支行',
   'fullName': '农业银行深圳公园大地支行',
   'value': ['114.234756', '22.708395'],
@@ -1814,6 +1995,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '观澜支行',
   'fullName': '农业银行深圳观澜支行',
   'value': ['114.054788', '22.71758'],
@@ -1824,6 +2006,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '光明支行',
   'fullName': '农业银行深圳光明支行',
   'value': ['113.945486', '22.761944'],
@@ -1834,6 +2017,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '国贸支行',
   'fullName': '农业银行深圳国贸支行',
   'value': ['114.11989', '22.54025'],
@@ -1844,6 +2028,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '海王支行',
   'fullName': '农业银行深圳海王支行',
   'value': ['113.92643', '22.515755'],
@@ -1854,6 +2039,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '海晖支行',
   'fullName': '农业银行深圳海晖支行',
   'value': ['113.925628', '22.507949'],
@@ -1864,6 +2050,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '横岗新区支行',
   'fullName': '农业银行深圳横岗新区支行',
   'value': ['114.195018', '22.646724'],
@@ -1874,6 +2061,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '横岗支行',
   'fullName': '农业银行深圳横岗支行',
   'value': ['114.208149', '22.646297'],
@@ -1884,6 +2072,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '弘雅支行',
   'fullName': '农业银行深圳弘雅支行',
   'value': ['113.8941', '22.5739'],
@@ -1894,6 +2083,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '红岭北路支行',
   'fullName': '农业银行深圳红岭北路支行',
   'value': ['114.10355', '22.564074'],
@@ -1904,6 +2094,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '红树湾支行',
   'fullName': '农业银行深圳红树湾支行',
   'value': ['113.966134', '22.532323'],
@@ -1914,6 +2105,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '后海支行',
   'fullName': '农业银行深圳后海支行',
   'value': ['113.936654', '22.519908'],
@@ -1924,6 +2116,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '华南城支行',
   'fullName': '农业银行深圳华南城支行',
   'value': ['114.126853', '22.677269'],
@@ -1934,6 +2127,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '华强支行',
   'fullName': '农业银行深圳华强支行',
   'value': ['114.087846', '22.543378'],
@@ -1944,6 +2138,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '华侨城支行',
   'fullName': '农业银行深圳华侨城支行',
   'value': ['113.984627', '22.534787'],
@@ -1954,6 +2149,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '环新支行',
   'fullName': '农业银行深圳环新支行',
   'value': ['113.9131', '22.51257'],
@@ -1964,6 +2160,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '皇岗商务中心支行',
   'fullName': '农业银行深圳皇岗商务中心支行',
   'value': ['114.064283', '22.531633'],
@@ -1974,6 +2171,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '皇岗支行',
   'fullName': '农业银行深圳皇岗支行',
   'value': ['114.064065', '22.523709'],
@@ -1984,6 +2182,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '汇一城支行',
   'fullName': '农业银行深圳汇一城支行',
   'value': ['113.862914', '22.575997'],
@@ -1994,6 +2193,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '金地社区支行',
   'fullName': '农业银行深圳金地社区支行',
   'value': ['114.040314', '22.516989'],
@@ -2004,6 +2204,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '金福支行',
   'fullName': '农业银行深圳金福支行',
   'value': ['114.130419', '22.55767'],
@@ -2014,6 +2215,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '锦湖支行',
   'fullName': '农业银行深圳锦湖支行',
   'value': ['114.126899', '22.544871'],
@@ -2024,6 +2226,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '锦华支行',
   'fullName': '农业银行深圳锦华支行',
   'value': ['114.005475', '22.647913'],
@@ -2034,6 +2237,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '锦绣江南支行',
   'fullName': '农业银行深圳锦绣江南支行',
   'value': ['114.027584', '22.638152'],
@@ -2044,6 +2248,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '科技园支行',
   'fullName': '农业银行深圳科技园支行',
   'value': ['113.945228', '22.544829'],
@@ -2054,6 +2259,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '坑梓支行',
   'fullName': '农业银行深圳坑梓支行',
   'value': ['114.370805', '22.744719'],
@@ -2064,6 +2270,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '葵涌支行',
   'fullName': '农业银行深圳葵涌支行',
   'value': ['114.421586', '22.632591'],
@@ -2074,6 +2281,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '莲塘支行',
   'fullName': '农业银行深圳莲塘支行',
   'value': ['114.170999', '22.561836'],
@@ -2084,6 +2292,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '龙城支行',
   'fullName': '农业银行深圳龙城支行',
   'value': ['114.012431', '22.658036'],
@@ -2094,6 +2303,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '龙岗支行',
   'fullName': '农业银行深圳龙岗支行',
   'value': ['114.270827', '22.724642'],
@@ -2104,6 +2314,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '龙岗中心城支行',
   'fullName': '农业银行深圳龙岗中心城支行',
   'value': ['114.241149', '22.719875'],
@@ -2114,6 +2325,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '龙华新区支行',
   'fullName': '农业银行深圳龙华新区支行',
   'value': ['114.049074', '22.685816'],
@@ -2124,6 +2336,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '龙华支行',
   'fullName': '农业银行深圳龙华支行',
   'value': ['114.020101', '22.657916'],
@@ -2134,6 +2347,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '龙翔支行',
   'fullName': '农业银行深圳龙翔支行',
   'value': ['114.237935', '22.714894'],
@@ -2144,6 +2358,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '龙兴支行',
   'fullName': '农业银行深圳龙兴支行',
   'value': ['114.276881', '22.729755'],
@@ -2154,6 +2369,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '龙园支行',
   'fullName': '农业银行深圳龙园支行',
   'value': ['114.125826', '22.619795'],
@@ -2164,6 +2380,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '龙悦居支行',
   'fullName': '农业银行深圳龙悦居支行',
   'value': ['114.030451', '22.604866'],
@@ -2174,6 +2391,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '绿海名都社区支行',
   'fullName': '农业银行深圳绿海名都社区支行',
   'value': ['113.913222', '22.528482'],
@@ -2184,6 +2402,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '罗岗支行',
   'fullName': '农业银行深圳罗岗支行',
   'value': ['114.123942', '22.596048'],
@@ -2194,6 +2413,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '罗湖支行',
   'fullName': '农业银行深圳罗湖支行',
   'value': ['114.124555', '22.544004'],
@@ -2204,6 +2424,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '梅丽路支行',
   'fullName': '农业银行深圳梅丽路支行',
   'value': ['114.041563', '22.56388'],
@@ -2214,6 +2435,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '梅林支行',
   'fullName': '农业银行深圳梅林支行',
   'value': ['114.057806', '22.564267'],
@@ -2224,6 +2446,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '梅龙支行',
   'fullName': '农业银行深圳梅龙支行',
   'value': ['114.030705', '22.628829'],
@@ -2234,6 +2457,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '免税大厦支行',
   'fullName': '农业银行深圳免税大厦支行',
   'value': ['114.055437', '22.537185'],
@@ -2244,6 +2468,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '民治支行',
   'fullName': '农业银行深圳民治支行',
   'value': ['114.038013', '22.626093'],
@@ -2254,6 +2479,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '明城支行',
   'fullName': '农业银行深圳明城支行',
   'value': ['113.90525', '22.778587'],
@@ -2264,6 +2490,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '南澳支行',
   'fullName': '农业银行深圳南澳支行',
   'value': ['114.492296', '22.534254'],
@@ -2274,6 +2501,7 @@ const banksDict = [{
   'type': '轻型/社区网点(待定)',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '南海支行',
   'fullName': '农业银行深圳南海支行',
   'value': ['113.924078', '22.511634'],
@@ -2284,6 +2512,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '南湖支行',
   'fullName': '农业银行深圳南湖支行',
   'value': ['114.123813', '22.538065'],
@@ -2294,6 +2523,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '南山支行',
   'fullName': '农业银行深圳南山支行',
   'value': ['113.928707', '22.521713'],
@@ -2304,6 +2534,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '南新路支行',
   'fullName': '农业银行深圳南新路支行',
   'value': ['113.920149', '22.537991'],
@@ -2314,6 +2545,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '坪地支行',
   'fullName': '农业银行深圳坪地支行',
   'value': ['114.30863', '22.771265'],
@@ -2324,6 +2556,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '坪山新区支行',
   'fullName': '农业银行深圳坪山新区支行',
   'value': ['114.344554', '22.705661'],
@@ -2334,6 +2567,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '坪山支行',
   'fullName': '农业银行深圳坪山支行',
   'value': ['114.347906', '22.689412'],
@@ -2344,6 +2578,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '坪洲支行',
   'fullName': '农业银行深圳坪洲支行',
   'value': ['113.866672', '22.563179'],
@@ -2354,6 +2589,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '平湖海吉星支行',
   'fullName': '农业银行深圳平湖海吉星支行',
   'value': ['114.162523', '22.645673'],
@@ -2364,6 +2600,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '平湖支行',
   'fullName': '农业银行深圳平湖支行',
   'value': ['114.129442', '22.698622'],
@@ -2374,6 +2611,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '前进路支行',
   'fullName': '农业银行深圳前进路支行',
   'value': ['113.885063', '22.588539'],
@@ -2384,6 +2622,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '人民北路支行',
   'fullName': '农业银行深圳人民北路支行',
   'value': ['114.12114', '22.554944'],
@@ -2394,6 +2633,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '软件园支行',
   'fullName': '农业银行深圳软件园支行',
   'value': ['113.938126', '22.523203'],
@@ -2404,6 +2644,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '沙井支行',
   'fullName': '农业银行深圳沙井支行',
   'value': ['113.8301', '22.733039'],
@@ -2414,6 +2655,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '沙头角支行',
   'fullName': '农业银行深圳沙头角支行',
   'value': ['114.22744', '22.55073'],
@@ -2424,6 +2666,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '上步支行',
   'fullName': '农业银行深圳上步支行',
   'value': ['114.0834', '22.53904'],
@@ -2434,6 +2677,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '尚都支行',
   'fullName': '农业银行深圳尚都支行',
   'value': ['113.885178', '22.558184'],
@@ -2444,6 +2688,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '蛇口支行',
   'fullName': '农业银行深圳蛇口支行',
   'value': ['113.929429', '22.490948'],
@@ -2454,6 +2699,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '深南支行',
   'fullName': '农业银行深圳深南支行',
   'value': ['114.104155', '22.540481'],
@@ -2464,6 +2710,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '石岩支行',
   'fullName': '农业银行深圳石岩支行',
   'value': ['113.933869', '22.678551'],
@@ -2474,6 +2721,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '深圳市分行',
   'fullName': '农业银行深圳市分行',
   'value': ['114.106584', '22.541923'],
@@ -2484,6 +2732,7 @@ const banksDict = [{
   'type': '分行营业部',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '水榭春天支行',
   'fullName': '农业银行深圳水榭春天支行',
   'value': ['114.026076', '22.628104'],
@@ -2494,6 +2743,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '松岗支行',
   'fullName': '农业银行深圳松岗支行',
   'value': ['113.845138', '22.768169'],
@@ -2504,6 +2754,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '笋田支行',
   'fullName': '农业银行深圳笋田支行',
   'value': ['114.112659', '22.567487'],
@@ -2514,6 +2765,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '桃源居支行',
   'fullName': '农业银行深圳桃源居支行',
   'value': ['113.861392', '22.614832'],
@@ -2524,6 +2776,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '桃源支行',
   'fullName': '农业银行深圳桃源支行',
   'value': ['113.973839', '22.555719'],
@@ -2534,6 +2787,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '天安支行',
   'fullName': '农业银行深圳天安支行',
   'value': ['114.029976', '22.533429'],
@@ -2544,6 +2798,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '天乐支行',
   'fullName': '农业银行深圳天乐支行',
   'value': ['114.117692', '22.581493'],
@@ -2554,6 +2809,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '天悦湾支行',
   'fullName': '农业银行深圳天悦湾支行',
   'value': ['113.952952', '22.576769'],
@@ -2564,6 +2820,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '田贝支行',
   'fullName': '农业银行深圳田贝支行',
   'value': ['114.12389', '22.563082'],
@@ -2574,6 +2831,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '田面支行',
   'fullName': '农业银行深圳田面支行',
   'value': ['114.076403', '22.541305'],
@@ -2584,6 +2842,7 @@ const banksDict = [{
   'type': '轻型/社区网点(待定)',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '湾支行',
   'fullName': '农业银行深圳湾支行',
   'value': ['113.940032', '22.501567'],
@@ -2594,6 +2853,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '万丰支行',
   'fullName': '农业银行深圳万丰支行',
   'value': ['113.824557', '22.727245'],
@@ -2604,6 +2864,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '西丽支行',
   'fullName': '农业银行深圳西丽支行',
   'value': ['113.953244', '22.575662'],
@@ -2614,6 +2875,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '西乡支行',
   'fullName': '农业银行深圳西乡支行',
   'value': ['113.878358', '22.570714'],
@@ -2624,6 +2886,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '香梅支行',
   'fullName': '农业银行深圳香梅支行',
   'value': ['114.036819', '22.552568'],
@@ -2634,6 +2897,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '香蜜湖支行',
   'fullName': '农业银行深圳香蜜湖支行',
   'value': ['114.040744', '22.542584'],
@@ -2644,6 +2908,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '新安支行',
   'fullName': '农业银行深圳新安支行',
   'value': ['113.912115', '22.57546'],
@@ -2654,6 +2919,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '新岸线支行',
   'fullName': '农业银行深圳新岸线支行',
   'value': ['113.875684', '22.558321'],
@@ -2664,6 +2930,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '新宝支行',
   'fullName': '农业银行深圳新宝支行',
   'value': ['113.886931', '22.566883'],
@@ -2674,6 +2941,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '新纪元支行',
   'fullName': '农业银行深圳新纪元支行',
   'value': ['114.02962', '22.53555'],
@@ -2684,6 +2952,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '新沙支行',
   'fullName': '农业银行深圳新沙支行',
   'value': ['114.044673', '22.52405'],
@@ -2694,6 +2963,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '新生支行',
   'fullName': '农业银行深圳新生支行',
   'value': ['114.277566', '22.750957'],
@@ -2704,6 +2974,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '新洲支行',
   'fullName': '农业银行深圳新洲支行',
   'value': ['114.053023', '22.522568'],
@@ -2714,6 +2985,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '信息枢纽中心支行',
   'fullName': '农业银行深圳信息枢纽中心支行',
   'value': ['114.055855', '22.535183'],
@@ -2724,6 +2996,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '星河盛世支行',
   'fullName': '农业银行深圳星河盛世支行',
   'value': ['114.046697', '22.601908'],
@@ -2734,6 +3007,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '兴华支行',
   'fullName': '农业银行深圳兴华支行',
   'value': ['114.093431', '22.540366'],
@@ -2744,6 +3018,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '盐田支行',
   'fullName': '农业银行深圳盐田支行',
   'value': ['114.254662', '22.588499'],
@@ -2754,6 +3029,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '裕华社区支行',
   'fullName': '农业银行深圳裕华社区支行',
   'value': ['114.305966', '22.769439'],
@@ -2764,6 +3040,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '招商广场支行',
   'fullName': '农业银行深圳招商广场支行',
   'value': ['113.915268', '22.48188'],
@@ -2774,6 +3051,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '振兴支行',
   'fullName': '农业银行深圳振兴支行',
   'value': ['114.117413', '22.600551'],
@@ -2784,6 +3062,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '中航城支行',
   'fullName': '农业银行深圳中航城支行',
   'value': ['114.082429', '22.543486'],
@@ -2794,6 +3073,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '中航九方社区支行',
   'fullName': '农业银行深圳中航九方社区支行',
   'value': ['', ''],
@@ -2804,6 +3084,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '中山花园支行',
   'fullName': '农业银行深圳中山花园支行',
   'value': ['114.135213', '22.548822'],
@@ -2814,6 +3095,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '中心区支行',
   'fullName': '农业银行深圳中心区支行',
   'value': ['114.051086', '22.537875'],
@@ -2824,6 +3106,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '珠宝中心支行',
   'fullName': '农业银行深圳珠宝中心支行',
   'value': ['114.128043', '22.567144'],
@@ -2834,6 +3117,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '珠江广场支行',
   'fullName': '农业银行深圳珠江广场支行',
   'value': ['114.25003', '22.72258'],
@@ -2844,6 +3128,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '竹子林支行',
   'fullName': '农业银行深圳竹子林支行',
   'value': ['114.008779', '22.534512'],
@@ -2854,6 +3139,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '坂田支行',
   'fullName': '农业银行深圳坂田支行',
   'value': ['114.25575', '22.729349'],
@@ -2864,6 +3150,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '怡景中心城社区支行',
   'fullName': '农业银行深圳怡景中心城社区支行',
   'value': ['114.06015', '22.535092'],
@@ -2874,6 +3161,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '深汕特别合作区支行',
   'fullName': '农业银行深汕特别合作区支行',
   'value': ['114.988264', '22.830983'],
@@ -2884,6 +3172,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '华润城支行',
   'fullName': '农业银行深圳华润城支行',
   'value': ['113.955165', '22.543733'],
@@ -2894,6 +3183,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '农业银行',
+  'category': 'abc',
   'name': '塘朗支行',
   'fullName': '农业银行深圳塘朗支行',
   'value': ['114.001021', '22.589413'],
@@ -2904,6 +3194,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '前海分行',
   'fullName': '建设银行前海分行',
   'value': ['113.900695', '22.515067'],
@@ -2914,6 +3205,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '爱华支行',
   'fullName': '建设银行深圳爱华支行',
   'value': ['114.092396', '22.538441'],
@@ -2924,6 +3216,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '八卦岭支行',
   'fullName': '建设银行深圳八卦岭支行',
   'value': ['114.098982', '22.563982'],
@@ -2934,6 +3227,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '宝安路支行',
   'fullName': '建设银行深圳宝安路支行',
   'value': ['114.10951', '22.551753'],
@@ -2944,6 +3238,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '宝安支行',
   'fullName': '建设银行深圳宝安支行',
   'value': ['113.909582', '22.560176'],
@@ -2954,6 +3249,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '宝城支行',
   'fullName': '建设银行深圳宝城支行',
   'value': ['113.88742', '22.551716'],
@@ -2964,6 +3260,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '碧波支行',
   'fullName': '建设银行深圳碧波支行',
   'value': ['114.14242', '22.559739'],
@@ -2974,6 +3271,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '碧桐海苑支行',
   'fullName': '建设银行深圳碧桐海苑支行',
   'value': ['114.236855', '22.559553'],
@@ -2984,6 +3282,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '布吉支行',
   'fullName': '建设银行深圳布吉支行',
   'value': ['114.117838', '22.606453'],
@@ -2994,6 +3293,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '布心支行',
   'fullName': '建设银行深圳布心支行',
   'value': ['114.13725', '22.57677'],
@@ -3004,6 +3304,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '长城支行',
   'fullName': '建设银行深圳长城支行',
   'value': ['114.089841', '22.552419'],
@@ -3014,6 +3315,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '长盛支行',
   'fullName': '建设银行深圳长盛支行',
   'value': ['114.087884', '22.549486'],
@@ -3024,6 +3326,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '长兴工业园支行',
   'fullName': '建设银行深圳长兴工业园支行',
   'value': ['113.788397', '22.724713'],
@@ -3034,6 +3337,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '城东支行',
   'fullName': '建设银行深圳城东支行',
   'value': ['114.123465', '22.541423'],
@@ -3044,6 +3348,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '创业支行',
   'fullName': '建设银行深圳创业支行',
   'value': ['113.89367', '22.573721'],
@@ -3054,6 +3359,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '春风路支行',
   'fullName': '建设银行深圳春风路支行',
   'value': ['114.125002', '22.537793'],
@@ -3064,6 +3370,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '翠园支行',
   'fullName': '建设银行深圳翠园支行',
   'value': ['114.13016', '22.55993'],
@@ -3074,6 +3381,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '翠竹支行',
   'fullName': '建设银行深圳翠竹支行',
   'value': ['114.129844', '22.57017'],
@@ -3084,6 +3392,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '大磡村支行',
   'fullName': '建设银行深圳大磡村支行',
   'value': ['113.974678', '22.619368'],
@@ -3094,6 +3403,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '大工业区支行',
   'fullName': '建设银行深圳大工业区支行',
   'value': ['114.34273', '22.690441'],
@@ -3104,6 +3414,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '大浪商业中心支行',
   'fullName': '建设银行深圳大浪商业中心支行',
   'value': ['113.994297', '22.674451'],
@@ -3114,6 +3425,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '大浪支行',
   'fullName': '建设银行深圳大浪支行',
   'value': ['113.99141', '22.69086'],
@@ -3124,6 +3436,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '大梅沙奥特莱斯支行',
   'fullName': '建设银行深圳大梅沙奥特莱斯支行',
   'value': ['114.308833', '22.599916'],
@@ -3134,6 +3447,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '大鹏支行',
   'fullName': '建设银行深圳大鹏支行',
   'value': ['114.480797', '22.59608'],
@@ -3144,6 +3458,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '大运城支行',
   'fullName': '建设银行深圳大运城支行',
   'value': ['114.208093', '22.709064'],
@@ -3154,6 +3469,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '滴滴之家支行',
   'fullName': '建设银行深圳滴滴之家支行',
   'value': ['113.976652', '22.561919'],
@@ -3164,6 +3480,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '地王大厦支行',
   'fullName': '建设银行深圳地王大厦支行',
   'value': ['114.110704', '22.542747'],
@@ -3174,6 +3491,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '东海支行',
   'fullName': '建设银行深圳东海支行',
   'value': ['114.023823', '22.537003'],
@@ -3184,6 +3502,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '东湖支行',
   'fullName': '建设银行深圳东湖支行',
   'value': ['114.134846', '22.568802'],
@@ -3194,6 +3513,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '东乐支行',
   'fullName': '建设银行深圳东乐支行',
   'value': ['114.141622', '22.567402'],
@@ -3204,6 +3524,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '东门支行',
   'fullName': '建设银行深圳东门支行',
   'value': ['114.120611', '22.547502'],
@@ -3214,6 +3535,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '凤凰支行',
   'fullName': '建设银行深圳凤凰支行',
   'value': ['114.131733', '22.549751'],
@@ -3224,6 +3546,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '福海支行',
   'fullName': '建设银行深圳福海支行',
   'value': ['113.78581', '22.688357'],
@@ -3234,6 +3557,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '福华支行',
   'fullName': '建设银行深圳福华支行',
   'value': ['114.067668', '22.534351'],
@@ -3244,6 +3568,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '福前支行',
   'fullName': '建设银行深圳福前支行',
   'value': ['114.026197', '22.72815'],
@@ -3254,6 +3579,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '福田保税区支行',
   'fullName': '建设银行深圳福田保税区支行',
   'value': ['114.057066', '22.509012'],
@@ -3264,6 +3590,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '福田科技支行',
   'fullName': '建设银行深圳福田科技支行',
   'value': ['114.070281', '22.541801'],
@@ -3274,6 +3601,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '福田口岸支行',
   'fullName': '建设银行深圳福田口岸支行',
   'value': ['114.07172', '22.517096'],
@@ -3284,6 +3612,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '福田支行',
   'fullName': '建设银行深圳福田支行',
   'value': ['114.061', '22.535393'],
@@ -3294,6 +3623,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '福祥支行',
   'fullName': '建设银行深圳福祥支行',
   'value': ['114.083003', '22.532392'],
@@ -3304,6 +3634,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '福永支行',
   'fullName': '建设银行深圳福永支行',
   'value': ['113.8256', '22.67146'],
@@ -3314,6 +3645,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '港澳城支行',
   'fullName': '建设银行深圳港澳城支行',
   'value': ['114.088861', '22.54664'],
@@ -3324,6 +3656,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '高新南支行',
   'fullName': '建设银行深圳高新南支行',
   'value': ['113.943068', '22.529194'],
@@ -3334,6 +3667,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '高新园支行',
   'fullName': '建设银行深圳高新园支行',
   'value': ['113.952498', '22.537883'],
@@ -3344,6 +3678,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '公明支行',
   'fullName': '建设银行深圳公明支行',
   'value': ['113.899588', '22.777499'],
@@ -3354,6 +3689,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '观澜支行',
   'fullName': '建设银行深圳观澜支行',
   'value': ['114.048829', '22.700297'],
@@ -3364,6 +3700,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '光浩支行',
   'fullName': '建设银行深圳光浩支行',
   'value': ['114.029396', '22.628352'],
@@ -3374,6 +3711,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '光明支行',
   'fullName': '建设银行深圳光明支行',
   'value': ['113.942792', '22.761267'],
@@ -3384,6 +3722,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '桂芳园社区支行',
   'fullName': '建设银行深圳桂芳园社区支行',
   'value': ['114.140067', '22.609309'],
@@ -3394,6 +3733,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '国会大厦支行',
   'fullName': '建设银行深圳国会大厦支行',
   'value': ['114.053203', '22.537675'],
@@ -3404,6 +3744,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '海月支行',
   'fullName': '建设银行深圳海月支行',
   'value': ['113.932828', '22.502236'],
@@ -3414,6 +3755,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '航城支行',
   'fullName': '建设银行深圳航城支行',
   'value': ['113.855572', '22.609885'],
@@ -3424,6 +3766,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '和平路支行',
   'fullName': '建设银行深圳和平路支行',
   'value': ['114.115922', '22.533668'],
@@ -3434,6 +3777,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '横岗支行',
   'fullName': '建设银行深圳横岗支行',
   'value': ['114.192289', '22.646014'],
@@ -3444,6 +3788,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '鸿景湾支行',
   'fullName': '建设银行深圳鸿景湾支行',
   'value': ['114.028123', '22.522203'],
@@ -3454,6 +3799,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '鸿瑞支行',
   'fullName': '建设银行深圳鸿瑞支行',
   'value': ['113.927009', '22.520622'],
@@ -3464,6 +3810,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '鸿图大厦支行',
   'fullName': '建设银行深圳鸿图大厦支行',
   'value': ['114.081074', '22.535604'],
@@ -3474,6 +3821,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '鸿翔花园支行',
   'fullName': '建设银行深圳鸿翔花园支行',
   'value': ['114.106685', '22.554423'],
@@ -3484,6 +3832,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '宏发上域支行',
   'fullName': '建设银行深圳宏发上域支行',
   'value': ['113.907441', '22.78208'],
@@ -3494,6 +3843,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '红荔支行',
   'fullName': '建设银行深圳红荔支行',
   'value': ['114.044463', '22.55106'],
@@ -3504,6 +3854,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '后海公馆支行',
   'fullName': '建设银行深圳后海公馆支行',
   'value': ['113.938277', '22.491053'],
@@ -3514,6 +3865,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '华南城支行',
   'fullName': '建设银行深圳华南城支行',
   'value': ['114.124329', '22.676716'],
@@ -3524,6 +3876,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '华强支行',
   'fullName': '建设银行深圳华强支行',
   'value': ['114.083869', '22.544201'],
@@ -3534,6 +3887,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '华侨城支行',
   'fullName': '建设银行深圳华侨城支行',
   'value': ['113.984738', '22.53626'],
@@ -3544,6 +3898,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '华嵘大厦支行',
   'fullName': '建设银行深圳华嵘大厦支行',
   'value': ['114.065615', '22.539192'],
@@ -3554,6 +3909,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '黄贝岭支行',
   'fullName': '建设银行深圳黄贝岭支行',
   'value': ['114.129795', '22.544173'],
@@ -3564,6 +3920,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '皇岗支行',
   'fullName': '建设银行深圳皇岗支行',
   'value': ['114.063881', '22.525461'],
@@ -3574,6 +3931,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '机场候机楼支行',
   'fullName': '建设银行深圳机场候机楼支行',
   'value': ['113.825064', '22.643774'],
@@ -3584,6 +3942,7 @@ const banksDict = [{
   'type': '轻型/社区网点(待定)',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '机场支行',
   'fullName': '建设银行深圳机场支行',
   'value': ['113.82491', '22.64372'],
@@ -3594,6 +3953,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '吉华支行',
   'fullName': '建设银行深圳吉华支行',
   'value': ['114.13036', '22.608767'],
@@ -3604,6 +3964,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '嘉宾路支行',
   'fullName': '建设银行深圳嘉宾路支行',
   'value': ['114.113435', '22.538658'],
@@ -3614,6 +3975,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '建设路支行',
   'fullName': '建设银行深圳建设路支行',
   'value': ['114.123101', '22.544287'],
@@ -3624,6 +3986,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '金地支行',
   'fullName': '建设银行深圳金地支行',
   'value': ['114.045726', '22.517469'],
@@ -3634,6 +3997,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '金沙支行',
   'fullName': '建设银行深圳金沙支行',
   'value': ['114.026936', '22.527611'],
@@ -3644,6 +4008,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '景田支行',
   'fullName': '建设银行深圳景田支行',
   'value': ['114.036351', '22.555466'],
@@ -3654,6 +4019,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '景苑支行',
   'fullName': '建设银行深圳景苑支行',
   'value': ['114.044452', '22.541919'],
@@ -3664,6 +4030,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '聚宝支行',
   'fullName': '建设银行深圳聚宝支行',
   'value': ['114.168859', '22.563389'],
@@ -3674,6 +4041,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '骏皇名居支行',
   'fullName': '建设银行深圳骏皇名居支行',
   'value': ['114.06338', '22.516'],
@@ -3684,6 +4052,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '科兴支行',
   'fullName': '建设银行深圳科兴支行',
   'value': ['113.943695', '22.548892'],
@@ -3694,6 +4063,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '科苑南支行',
   'fullName': '建设银行深圳科苑南支行',
   'value': ['113.947596', '22.534277'],
@@ -3704,6 +4074,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '科苑支行',
   'fullName': '建设银行深圳科苑支行',
   'value': ['113.946585', '22.543764'],
@@ -3714,6 +4085,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '可园支行',
   'fullName': '建设银行深圳可园支行',
   'value': ['113.82491', '22.64372'],
@@ -3724,6 +4096,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '坑梓支行',
   'fullName': '建设银行深圳坑梓支行',
   'value': ['114.37493', '22.744655'],
@@ -3734,6 +4107,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '葵涌支行',
   'fullName': '建设银行深圳葵涌支行',
   'value': ['114.418469', '22.629464'],
@@ -3744,6 +4118,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '蓝湾半岛支行',
   'fullName': '建设银行深圳蓝湾半岛支行',
   'value': ['114.040818', '22.516798'],
@@ -3754,6 +4129,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '莲花北支行',
   'fullName': '建设银行深圳莲花北支行',
   'value': ['114.054093', '22.560126'],
@@ -3764,6 +4140,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '莲花山支行',
   'fullName': '建设银行深圳莲花山支行',
   'value': ['114.070373', '22.548841'],
@@ -3774,6 +4151,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '莲塘支行',
   'fullName': '建设银行深圳莲塘支行',
   'value': ['114.17295', '22.560605'],
@@ -3784,6 +4162,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '龙城支行',
   'fullName': '建设银行深圳龙城支行',
   'value': ['114.232202', '22.722654'],
@@ -3794,6 +4173,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '龙岗支行',
   'fullName': '建设银行深圳龙岗支行',
   'value': ['114.250372', '22.72229'],
@@ -3804,6 +4184,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '龙海家园支行',
   'fullName': '建设银行深圳龙海家园支行',
   'value': ['113.904344', '22.534832'],
@@ -3814,6 +4195,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '龙华支行',
   'fullName': '建设银行深圳龙华支行',
   'value': ['114.022413', '22.653487'],
@@ -3824,6 +4206,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '龙兴支行',
   'fullName': '建设银行深圳龙兴支行',
   'value': ['114.2469', '22.71323'],
@@ -3834,6 +4217,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '龙悦居社区支行',
   'fullName': '建设银行深圳龙悦居社区支行',
   'value': ['114.030655', '22.602821'],
@@ -3844,6 +4228,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '楼岗支行',
   'fullName': '建设银行深圳楼岗支行',
   'value': ['113.855208', '22.760986'],
@@ -3854,6 +4239,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '峦山谷支行',
   'fullName': '建设银行深圳峦山谷支行',
   'value': ['114.266429', '22.68776'],
@@ -3864,6 +4250,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '罗岗支行',
   'fullName': '建设银行深圳罗岗支行',
   'value': ['114.123718', '22.59342'],
@@ -3874,6 +4261,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '罗湖管理中心支行',
   'fullName': '建设银行深圳罗湖管理中心支行',
   'value': ['114.131761', '22.548445'],
@@ -3884,6 +4272,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '罗湖口岸社区支行',
   'fullName': '建设银行深圳罗湖口岸社区支行',
   'value': ['114.117321', '22.529735'],
@@ -3894,6 +4283,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '罗湖商务中心支行',
   'fullName': '建设银行深圳罗湖商务中心支行',
   'value': ['114.126664', '22.544902'],
@@ -3904,6 +4294,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '罗湖商业城支行',
   'fullName': '建设银行深圳罗湖商业城支行',
   'value': ['114.119016', '22.530173'],
@@ -3914,6 +4305,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '罗湖支行',
   'fullName': '建设银行深圳罗湖支行',
   'value': ['114.106719', '22.539695'],
@@ -3924,6 +4316,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '曼海宁支行',
   'fullName': '建设银行深圳曼海宁支行',
   'value': ['114.008821', '22.639221'],
@@ -3934,6 +4327,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '慢城支行',
   'fullName': '建设银行深圳慢城支行',
   'value': ['114.13135', '22.622552'],
@@ -3944,6 +4338,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '玫瑰园支行',
   'fullName': '建设银行深圳玫瑰园支行',
   'value': ['113.92489', '22.49845'],
@@ -3954,6 +4349,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '梅景支行',
   'fullName': '建设银行深圳梅景支行',
   'value': ['114.037862', '22.563442'],
@@ -3964,6 +4360,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '梅林支行',
   'fullName': '建设银行深圳梅林支行',
   'value': ['114.061335', '22.570944'],
@@ -3974,6 +4371,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '民治支行',
   'fullName': '建设银行深圳民治支行',
   'value': ['114.04485', '22.610617'],
@@ -3984,6 +4382,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '南海城支行',
   'fullName': '建设银行深圳南海城支行',
   'value': ['113.923113', '22.517812'],
@@ -3994,6 +4393,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '南岭支行',
   'fullName': '建设银行深圳南岭支行',
   'value': ['114.150459', '22.609997'],
@@ -4004,6 +4404,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '南山大道支行',
   'fullName': '建设银行深圳南山大道支行',
   'value': ['113.926482', '22.532937'],
@@ -4014,6 +4415,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '南山科技支行',
   'fullName': '建设银行深圳南山科技支行',
   'value': ['113.950514', '22.554745'],
@@ -4024,6 +4426,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '南山支行',
   'fullName': '建设银行深圳南山支行',
   'value': ['113.935528', '22.518614'],
@@ -4034,6 +4437,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '南新支行',
   'fullName': '建设银行深圳南新支行',
   'value': ['113.919379', '22.537334'],
@@ -4044,6 +4448,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '南油支行',
   'fullName': '建设银行深圳南油支行',
   'value': ['113.928883', '22.513342'],
@@ -4054,6 +4459,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '坪地支行',
   'fullName': '建设银行深圳坪地支行',
   'value': ['114.306918', '22.766953'],
@@ -4064,6 +4470,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '坪山支行',
   'fullName': '建设银行深圳坪山支行',
   'value': ['114.339289', '22.683784'],
@@ -4074,6 +4481,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '平湖支行',
   'fullName': '建设银行深圳平湖支行',
   'value': ['114.14189', '22.696879'],
@@ -4084,6 +4492,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '前海支行',
   'fullName': '建设银行深圳前海支行',
   'value': ['113.914757', '22.529453'],
@@ -4094,6 +4503,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '前进支行',
   'fullName': '建设银行深圳前进支行',
   'value': ['113.903871', '22.574469'],
@@ -4104,6 +4514,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '侨城东支行',
   'fullName': '建设银行深圳侨城东支行',
   'value': ['113.99662', '22.5316'],
@@ -4114,6 +4525,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '侨城西支行',
   'fullName': '建设银行深圳侨城西支行',
   'value': ['113.974551', '22.550353'],
@@ -4124,6 +4536,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '清湖支行',
   'fullName': '建设银行深圳清湖支行',
   'value': ['114.038563', '22.657905'],
@@ -4134,6 +4547,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '清林径支行',
   'fullName': '建设银行深圳清林径支行',
   'value': ['114.230165', '22.748922'],
@@ -4144,6 +4558,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '沙河支行',
   'fullName': '建设银行深圳沙河支行',
   'value': ['113.968015', '22.540703'],
@@ -4154,6 +4569,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '沙井支行',
   'fullName': '建设银行深圳沙井支行',
   'value': ['113.816521', '22.733099'],
@@ -4164,6 +4580,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '沙头角支行',
   'fullName': '建设银行深圳沙头角支行',
   'value': ['114.23112', '22.548238'],
@@ -4174,6 +4591,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '上步支行',
   'fullName': '建设银行深圳上步支行',
   'value': ['114.081534', '22.537132'],
@@ -4184,6 +4602,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '蛇口支行',
   'fullName': '建设银行深圳蛇口支行',
   'value': ['113.914951', '22.483172'],
@@ -4194,6 +4613,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '深南中路支行',
   'fullName': '建设银行深圳深南中路支行',
   'value': ['114.10276', '22.540236'],
@@ -4204,6 +4624,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '深湾壹号支行',
   'fullName': '建设银行深圳深湾壹号支行',
   'value': ['113.942687', '22.506328'],
@@ -4214,6 +4635,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '深业东岭支行',
   'fullName': '建设银行深圳深业东岭支行',
   'value': ['114.13817', '22.548203'],
@@ -4224,6 +4646,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '深圳湾支行',
   'fullName': '建设银行深圳深圳湾支行',
   'value': ['113.966412', '22.531454'],
@@ -4234,6 +4657,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '石厦支行',
   'fullName': '建设银行深圳石厦支行',
   'value': ['114.053296', '22.520431'],
@@ -4244,6 +4668,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '石岩上屋新村支行',
   'fullName': '建设银行深圳石岩上屋新村支行',
   'value': ['113.937872', '22.679692'],
@@ -4254,6 +4679,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '石岩支行',
   'fullName': '建设银行深圳石岩支行',
   'value': ['113.929892', '22.674037'],
@@ -4264,6 +4690,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '深圳市分行',
   'fullName': '建设银行深圳市分行',
   'value': ['114.055519', '22.543594'],
@@ -4274,6 +4701,7 @@ const banksDict = [{
   'type': '分行营业部',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '双龙支行',
   'fullName': '建设银行深圳双龙支行',
   'value': ['114.269621', '22.722865'],
@@ -4284,6 +4712,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '双拥街支行',
   'fullName': '建设银行深圳双拥街支行',
   'value': ['114.134342', '22.698969'],
@@ -4294,6 +4723,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '水贝珠宝支行',
   'fullName': '建设银行深圳水贝珠宝支行',
   'value': ['114.12506', '22.57286'],
@@ -4304,6 +4734,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '水木丹华支行',
   'fullName': '建设银行深圳水木丹华支行',
   'value': ['113.98994', '22.592172'],
@@ -4314,6 +4745,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '水榭春天支行',
   'fullName': '建设银行深圳水榭春天支行',
   'value': ['114.01493', '22.63762'],
@@ -4324,6 +4756,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '水榭花都支行',
   'fullName': '建设银行深圳水榭花都支行',
   'value': ['114.038093', '22.547781'],
@@ -4334,6 +4767,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '松岗支行',
   'fullName': '建设银行深圳松岗支行',
   'value': ['113.846127', '22.768871'],
@@ -4344,6 +4778,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '笋岗支行',
   'fullName': '建设银行深圳笋岗支行',
   'value': ['114.108855', '22.560117'],
@@ -4354,6 +4789,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '泰然支行',
   'fullName': '建设银行深圳泰然支行',
   'value': ['114.030891', '22.53447'],
@@ -4364,6 +4800,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '泰逸支行',
   'fullName': '建设银行深圳泰逸支行',
   'value': ['113.86833', '22.565066'],
@@ -4374,6 +4811,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '桃源居支行',
   'fullName': '建设银行深圳桃源居支行',
   'value': ['113.862702', '22.614355'],
@@ -4384,6 +4822,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '天健世纪支行',
   'fullName': '建设银行深圳天健世纪支行',
   'value': ['114.063658', '22.544042'],
@@ -4394,6 +4833,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '天骄世家支行',
   'fullName': '建设银行深圳天骄世家支行',
   'value': ['113.89137', '22.58691'],
@@ -4404,6 +4844,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '天源支行',
   'fullName': '建设银行深圳天源支行',
   'value': ['113.89849', '22.576466'],
@@ -4414,6 +4855,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '科创支行',
   'fullName': '建设银行深圳科创支行',
   'value': ['113.944848', '22.581036'],
@@ -4424,6 +4866,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '田背支行',
   'fullName': '建设银行深圳田背支行',
   'value': ['114.120248', '22.558796'],
@@ -4434,6 +4877,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '铁路支行',
   'fullName': '建设银行深圳铁路支行',
   'value': ['114.043082', '22.525246'],
@@ -4444,6 +4888,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '万科城支行',
   'fullName': '建设银行深圳万科城支行',
   'value': ['114.067259', '22.644351'],
@@ -4454,6 +4899,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '万科公园里支行',
   'fullName': '建设银行深圳万科公园里支行',
   'value': ['114.156141', '22.605594'],
@@ -4464,6 +4910,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '万众城支行',
   'fullName': '建设银行深圳万众城支行',
   'value': ['114.039291', '22.630044'],
@@ -4474,6 +4921,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '梧桐山支行',
   'fullName': '建设银行深圳梧桐山支行',
   'value': ['114.257043', '22.589871'],
@@ -4484,6 +4932,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '五和支行',
   'fullName': '建设银行深圳五和支行',
   'value': ['114.057609', '22.634396'],
@@ -4494,6 +4943,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '西岸华府支行',
   'fullName': '建设银行深圳西岸华府支行',
   'value': ['113.821267', '22.772339'],
@@ -4504,6 +4954,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '西部硅谷支行',
   'fullName': '建设银行深圳西部硅谷支行',
   'value': ['113.838189', '22.626325'],
@@ -4514,6 +4965,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '西丽支行',
   'fullName': '建设银行深圳西丽支行',
   'value': ['113.957287', '22.581051'],
@@ -4524,6 +4976,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '西乡大道支行',
   'fullName': '建设银行深圳西乡大道支行',
   'value': ['113.867786', '22.579232'],
@@ -4534,6 +4987,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '西乡梧桐岛支行',
   'fullName': '建设银行深圳西乡梧桐岛支行',
   'value': ['113.838328', '22.60553'],
@@ -4544,6 +4998,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '西乡支行',
   'fullName': '建设银行深圳西乡支行',
   'value': ['113.855559', '22.569311'],
@@ -4554,6 +5009,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '仙桐支行',
   'fullName': '建设银行深圳仙桐支行',
   'value': ['114.188044', '22.555938'],
@@ -4564,6 +5020,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '香蜜湖支行',
   'fullName': '建设银行深圳香蜜湖支行',
   'value': ['114.039303', '22.543954'],
@@ -4574,6 +5031,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '新安支行',
   'fullName': '建设银行深圳新安支行',
   'value': ['113.906384', '22.565858'],
@@ -4584,6 +5042,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '新岸线支行',
   'fullName': '建设银行深圳新岸线支行',
   'value': ['113.877098', '22.5571'],
@@ -4594,6 +5053,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '新城支行',
   'fullName': '建设银行深圳新城支行',
   'value': ['113.892762', '22.560165'],
@@ -4604,6 +5064,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '新澜支行',
   'fullName': '建设银行深圳新澜支行',
   'value': ['114.054775', '22.718125'],
@@ -4614,6 +5075,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '新桥支行',
   'fullName': '建设银行深圳新桥支行',
   'value': ['113.835573', '22.73893'],
@@ -4624,6 +5086,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '信义御城支行',
   'fullName': '建设银行深圳信义御城支行',
   'value': ['114.21207', '22.650826'],
@@ -4634,6 +5097,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '星湖花园支行',
   'fullName': '建设银行深圳星湖花园支行',
   'value': ['114.10035', '22.567426'],
@@ -4644,6 +5108,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '雅宝支行',
   'fullName': '建设银行深圳雅宝支行',
   'value': ['114.059383', '22.604729'],
@@ -4654,6 +5119,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '盐田支行',
   'fullName': '建设银行深圳盐田支行',
   'value': ['114.238628', '22.554592'],
@@ -4664,6 +5130,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '阳光四季支行',
   'fullName': '建设银行深圳阳光四季支行',
   'value': ['114.051544', '22.52574'],
@@ -4674,6 +5141,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '阳光天健城支行',
   'fullName': '建设银行深圳阳光天健城支行',
   'value': ['114.221387', '22.700584'],
@@ -4684,6 +5152,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '益民支行',
   'fullName': '建设银行深圳益民支行',
   'value': ['114.058222', '22.522773'],
@@ -4694,6 +5163,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '益田支行',
   'fullName': '建设银行深圳益田支行',
   'value': ['114.051276', '22.515685'],
@@ -4704,6 +5174,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '英龙支行',
   'fullName': '建设银行深圳英龙支行',
   'value': ['114.022503', '22.53472'],
@@ -4714,6 +5185,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '永新汇支行',
   'fullName': '建设银行深圳永新汇支行',
   'value': ['113.918953', '22.509499'],
@@ -4724,6 +5196,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '园博园支行',
   'fullName': '建设银行深圳园博园支行',
   'value': ['114.006826', '22.535162'],
@@ -4734,6 +5207,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '园林路支行',
   'fullName': '建设银行深圳园林路支行',
   'value': ['114.222568', '22.555535'],
@@ -4744,6 +5218,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '园岭支行',
   'fullName': '建设银行深圳园岭支行',
   'value': ['114.1015', '22.5525'],
@@ -4754,6 +5229,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '园山支行',
   'fullName': '建设银行深圳园山支行',
   'value': ['114.208398', '22.649236'],
@@ -4764,6 +5240,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '悦兴支行',
   'fullName': '建设银行深圳悦兴支行',
   'value': ['114.037563', '22.711399'],
@@ -4774,6 +5251,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '云中大厦支行',
   'fullName': '建设银行深圳云中大厦支行',
   'value': ['114.061413', '22.567096'],
@@ -4784,6 +5262,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '招商果岭支行',
   'fullName': '建设银行深圳招商果岭支行',
   'value': ['113.858287', '22.584591'],
@@ -4794,6 +5273,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '招商支行',
   'fullName': '建设银行深圳招商支行',
   'value': ['113.924227', '22.493052'],
@@ -4804,6 +5284,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '振华支行',
   'fullName': '建设银行深圳振华支行',
   'value': ['114.09465', '22.544974'],
@@ -4814,6 +5295,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '振兴支行',
   'fullName': '建设银行深圳振兴支行',
   'value': ['114.091189', '22.546774'],
@@ -4824,6 +5306,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '智慧支行',
   'fullName': '建设银行深圳智慧支行',
   'value': ['114.063436', '22.548222'],
@@ -4834,6 +5317,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '中海锦城支行',
   'fullName': '建设银行深圳中海锦城支行',
   'value': ['114.01466', '22.637317'],
@@ -4844,6 +5328,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '中粮锦云支行',
   'fullName': '建设银行深圳中粮锦云支行',
   'value': ['113.888426', '22.584284'],
@@ -4854,6 +5339,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '中旅公馆支行',
   'fullName': '建设银行深圳中旅公馆支行',
   'value': ['114.017375', '22.547096'],
@@ -4864,6 +5350,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '中心区支行',
   'fullName': '建设银行深圳中心区支行',
   'value': ['114.05672', '22.53401'],
@@ -4874,6 +5361,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '珠光花半里支行',
   'fullName': '建设银行深圳珠光花半里支行',
   'value': ['113.962348', '22.570079'],
@@ -4884,6 +5372,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '住房城市建设支行',
   'fullName': '建设银行深圳住房城市建设支行',
   'value': ['114.104111', '22.547857'],
@@ -4894,6 +5383,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '坂田支行',
   'fullName': '建设银行深圳坂田支行',
   'value': ['114.06973', '22.659039'],
@@ -4904,6 +5394,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '茗萃园支行',
   'fullName': '建设银行深圳茗萃园支行',
   'value': ['114.142714', '22.668097'],
@@ -4914,6 +5405,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '濠景支行',
   'fullName': '建设银行深圳濠景支行',
   'value': ['113.790146', '22.733315'],
@@ -4924,6 +5416,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '曦城支行',
   'fullName': '建设银行深圳曦城支行',
   'value': ['113.901933', '22.59546'],
@@ -4934,6 +5427,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '鹭湖支行',
   'fullName': '建设银行深圳鹭湖支行',
   'value': ['114.064372', '22.690313'],
@@ -4944,6 +5438,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '深汕特别合作区支行',
   'fullName': '建设银行深汕特别合作区支行',
   'value': ['114.990865', '22.832053'],
@@ -4954,6 +5449,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '建设银行',
+  'category': 'ccb',
   'name': '方大城支行',
   'fullName': '建设银行深圳方大城支行',
   'value': ['113.972518', '22.555754'],
@@ -4964,6 +5460,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '爱华支行',
   'fullName': '招商银行深圳爱华支行',
   'value': ['114.012465', '22.544466'],
@@ -4974,6 +5471,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '安联支行',
   'fullName': '招商银行深圳安联支行',
   'value': ['114.063497', '22.54207'],
@@ -4984,6 +5482,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '八卦岭支行',
   'fullName': '招商银行深圳八卦岭支行',
   'value': ['114.102261', '22.558747'],
@@ -4994,6 +5493,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '百花支行',
   'fullName': '招商银行深圳百花支行',
   'value': ['114.092143', '22.550957'],
@@ -5004,6 +5504,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '宝安支行',
   'fullName': '招商银行深圳宝安支行',
   'value': ['113.900973', '22.563362'],
@@ -5014,6 +5515,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '宝安中心区支行',
   'fullName': '招商银行深圳宝安中心区支行',
   'value': ['113.886576', '22.548909'],
@@ -5024,6 +5526,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '碧海中心社区支行',
   'fullName': '招商银行深圳碧海中心社区支行',
   'value': ['113.860321', '22.569592'],
@@ -5034,6 +5537,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '滨河时代支行',
   'fullName': '招商银行深圳滨河时代支行',
   'value': ['114.026948', '22.52864'],
@@ -5044,6 +5548,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '布吉支行',
   'fullName': '招商银行深圳布吉支行',
   'value': ['114.122063', '22.598322'],
@@ -5054,6 +5559,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '蔡屋围支行',
   'fullName': '招商银行深圳蔡屋围支行',
   'value': ['114.109603', '22.552583'],
@@ -5064,6 +5570,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '常兴支行',
   'fullName': '招商银行深圳常兴支行',
   'value': ['113.921506', '22.532913'],
@@ -5074,6 +5581,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '车公庙支行',
   'fullName': '招商银行深圳车公庙支行',
   'value': ['114.031454', '22.533069'],
@@ -5084,6 +5592,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '赤湾支行',
   'fullName': '招商银行深圳赤湾支行',
   'value': ['113.891265', '22.478938'],
@@ -5094,6 +5603,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '创维大厦支行',
   'fullName': '招商银行深圳创维大厦支行',
   'value': ['113.953442', '22.537321'],
@@ -5104,6 +5614,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '翠竹支行',
   'fullName': '招商银行深圳翠竹支行',
   'value': ['114.130066', '22.561044'],
@@ -5114,6 +5625,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '第五园社区支行',
   'fullName': '招商银行深圳第五园社区支行',
   'value': ['114.072813', '22.617789'],
@@ -5124,6 +5636,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '东滨支行',
   'fullName': '招商银行深圳东滨支行',
   'value': ['113.924138', '22.505224'],
@@ -5134,6 +5647,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '东城国际社区支行',
   'fullName': '招商银行深圳东城国际社区支行',
   'value': ['114.328674', '22.680363'],
@@ -5144,6 +5658,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '东门支行',
   'fullName': '招商银行深圳东门支行',
   'value': ['114.131825', '22.550665'],
@@ -5154,6 +5669,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '分行',
   'fullName': '招商银行深圳分行',
   'value': ['114.027035', '22.528765'],
@@ -5164,6 +5680,7 @@ const banksDict = [{
   'type': '分行营业部',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '福华支行',
   'fullName': '招商银行深圳福华支行',
   'value': ['114.083597', '22.538716'],
@@ -5174,6 +5691,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '福民支行',
   'fullName': '招商银行深圳福民支行',
   'value': ['114.052138', '22.522524'],
@@ -5184,6 +5702,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '福强支行',
   'fullName': '招商银行深圳福强支行',
   'value': ['114.065085', '22.51938'],
@@ -5194,6 +5713,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '福田支行',
   'fullName': '招商银行深圳福田支行',
   'value': ['114.082177', '22.541828'],
@@ -5204,6 +5724,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '富怡雅居社区支行',
   'fullName': '招商银行深圳富怡雅居社区支行',
   'value': ['114.093924', '22.544378'],
@@ -5214,6 +5735,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '高新园支行',
   'fullName': '招商银行深圳高新园支行',
   'value': ['113.946466', '22.534202'],
@@ -5224,6 +5746,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '观澜支行',
   'fullName': '招商银行深圳观澜支行',
   'value': ['114.057209', '22.716211'],
@@ -5234,6 +5757,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '光明大街社区支行',
   'fullName': '招商银行深圳光明大街社区支行',
   'value': ['113.942985', '22.753708'],
@@ -5244,6 +5768,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '光明支行',
   'fullName': '招商银行深圳光明支行',
   'value': ['113.934896', '22.761395'],
@@ -5254,6 +5779,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '国创支行',
   'fullName': '招商银行深圳国创支行',
   'value': ['114.071549', '22.542063'],
@@ -5264,6 +5790,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '国威路社区支行',
   'fullName': '招商银行深圳国威路社区支行',
   'value': ['114.171613', '22.563707'],
@@ -5274,6 +5801,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '海月社区支行',
   'fullName': '招商银行深圳海月社区支行',
   'value': ['113.935284', '22.500727'],
@@ -5284,6 +5812,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '横岗支行',
   'fullName': '招商银行深圳横岗支行',
   'value': ['114.198046', '22.644314'],
@@ -5294,6 +5823,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '后海海月支行',
   'fullName': '招商银行深圳后海海月支行',
   'value': ['113.938968', '22.497133'],
@@ -5304,6 +5834,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '华侨城支行',
   'fullName': '招商银行深圳华侨城支行',
   'value': ['113.980701', '22.533622'],
@@ -5314,6 +5845,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '华润城支行',
   'fullName': '招商银行深圳华润城支行',
   'value': ['113.952307', '22.541228'],
@@ -5324,6 +5856,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '华为社区支行',
   'fullName': '招商银行深圳华为社区支行',
   'value': ['114.05993', '22.654811'],
@@ -5334,6 +5867,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '皇岗支行',
   'fullName': '招商银行深圳皇岗支行',
   'value': ['114.068736', '22.531632'],
@@ -5344,6 +5878,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '建安支行',
   'fullName': '招商银行深圳建安支行',
   'value': ['113.906826', '22.560352'],
@@ -5354,6 +5889,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '金丰城支行',
   'fullName': '招商银行深圳金丰城支行',
   'value': ['114.110114', '22.540882'],
@@ -5364,6 +5900,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '金色家园支行',
   'fullName': '招商银行深圳金色家园支行',
   'value': ['114.044532', '22.55382'],
@@ -5374,6 +5911,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '京基百纳社区支行',
   'fullName': '招商银行深圳京基百纳社区支行',
   'value': ['113.970158', '22.530187'],
@@ -5384,6 +5922,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '景田支行',
   'fullName': '招商银行深圳景田支行',
   'value': ['114.042971', '22.541148'],
@@ -5394,6 +5933,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '科发支行',
   'fullName': '招商银行深圳科发支行',
   'value': ['113.946061', '22.544229'],
@@ -5404,6 +5944,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '科技园支行',
   'fullName': '招商银行深圳科技园支行',
   'value': ['113.955737', '22.539497'],
@@ -5414,6 +5955,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '科兴科学园社区支行',
   'fullName': '招商银行深圳科兴科学园社区支行',
   'value': ['113.943695', '22.548892'],
@@ -5424,6 +5966,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '科苑支行',
   'fullName': '招商银行深圳科苑支行',
   'value': ['113.932901', '22.54219'],
@@ -5434,6 +5977,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '葵涌社区支行',
   'fullName': '招商银行深圳葵涌社区支行',
   'value': ['114.423179', '22.629679'],
@@ -5444,6 +5988,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '莲花支行',
   'fullName': '招商银行深圳莲花支行',
   'value': ['114.071031', '22.545059'],
@@ -5454,6 +5999,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '龙城支行',
   'fullName': '招商银行深圳龙城支行',
   'value': ['114.217514', '22.723102'],
@@ -5464,6 +6010,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '龙岗支行',
   'fullName': '招商银行深圳龙岗支行',
   'value': ['114.251097', '22.723458'],
@@ -5474,6 +6021,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '龙华支行',
   'fullName': '招商银行深圳龙华支行',
   'value': ['114.027862', '22.647868'],
@@ -5484,6 +6032,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '罗湖支行',
   'fullName': '招商银行深圳罗湖支行',
   'value': ['114.118215', '22.540955'],
@@ -5494,6 +6043,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '梅景支行',
   'fullName': '招商银行深圳梅景支行',
   'value': ['114.037766', '22.56266'],
@@ -5504,6 +6054,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '梅林支行',
   'fullName': '招商银行深圳梅林支行',
   'value': ['114.06124', '22.57125'],
@@ -5514,6 +6065,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '梅龙支行',
   'fullName': '招商银行深圳梅龙支行',
   'value': ['114.021058', '22.6545'],
@@ -5524,6 +6076,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '民治支行',
   'fullName': '招商银行深圳民治支行',
   'value': ['114.029124', '22.628168'],
@@ -5534,6 +6087,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '南海支行',
   'fullName': '招商银行深圳南海支行',
   'value': ['113.914041', '22.512801'],
@@ -5544,6 +6098,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '南山支行',
   'fullName': '招商银行深圳南山支行',
   'value': ['113.936894', '22.518521'],
@@ -5554,6 +6109,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '南油支行',
   'fullName': '招商银行深圳南油支行',
   'value': ['113.926974', '22.516417'],
@@ -5564,6 +6120,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '坪山支行',
   'fullName': '招商银行深圳坪山支行',
   'value': ['114.337943', '22.693083'],
@@ -5574,6 +6131,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '前海分行',
   'fullName': '招商银行深圳前海分行',
   'value': ['113.880528', '22.500759'],
@@ -5584,6 +6142,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '前海企业公馆支行',
   'fullName': '招商银行深圳前海企业公馆支行',
   'value': ['113.900294', '22.515273'],
@@ -5594,6 +6153,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '侨香支行',
   'fullName': '招商银行深圳侨香支行',
   'value': ['114.014061', '22.551407'],
@@ -5604,6 +6164,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '软件基地支行',
   'fullName': '招商银行深圳软件基地支行',
   'value': ['113.938553', '22.522395'],
@@ -5614,6 +6175,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '沙井支行',
   'fullName': '招商银行深圳沙井支行',
   'value': ['113.829708', '22.728278'],
@@ -5624,6 +6186,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '上步支行',
   'fullName': '招商银行深圳上步支行',
   'value': ['114.066487', '22.538727'],
@@ -5634,6 +6197,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '蛇口支行',
   'fullName': '招商银行深圳蛇口支行',
   'value': ['113.92131', '22.490606'],
@@ -5644,6 +6208,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '深纺大厦支行',
   'fullName': '招商银行深圳深纺大厦支行',
   'value': ['114.085594', '22.544656'],
@@ -5654,6 +6219,7 @@ const banksDict = [{
   'type': '管辖行',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '深南中路支行',
   'fullName': '招商银行深圳深南中路支行',
   'value': ['114.063627', '22.533924'],
@@ -5664,6 +6230,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '深圳湾支行',
   'fullName': '招商银行深圳深圳湾支行',
   'value': ['113.940808', '22.509009'],
@@ -5674,6 +6241,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '生态园支行',
   'fullName': '招商银行深圳生态园支行',
   'value': ['113.952776', '22.530385'],
@@ -5684,6 +6252,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '时代广场支行',
   'fullName': '招商银行深圳时代广场支行',
   'value': ['114.057148', '22.534135'],
@@ -5694,6 +6263,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '世界之窗支行',
   'fullName': '招商银行深圳世界之窗支行',
   'value': ['113.972342', '22.538535'],
@@ -5704,6 +6274,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '水榭花都支行',
   'fullName': '招商银行深圳水榭花都支行',
   'value': ['114.038156', '22.549774'],
@@ -5714,6 +6285,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '四海支行',
   'fullName': '招商银行深圳四海支行',
   'value': ['113.93127', '22.518867'],
@@ -5724,6 +6296,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '松岗支行',
   'fullName': '招商银行深圳松岗支行',
   'value': ['113.857134', '22.76156'],
@@ -5734,6 +6307,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '松坪社区支行',
   'fullName': '招商银行深圳松坪社区支行',
   'value': ['113.955769', '22.558908'],
@@ -5744,6 +6318,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '笋岗支行',
   'fullName': '招商银行深圳笋岗支行',
   'value': ['114.108771', '22.561277'],
@@ -5754,6 +6329,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '泰然金谷支行',
   'fullName': '招商银行深圳泰然金谷支行',
   'value': ['114.023848', '22.530796'],
@@ -5764,6 +6340,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '泰然支行',
   'fullName': '招商银行深圳泰然支行',
   'value': ['114.025496', '22.535084'],
@@ -5774,6 +6351,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '腾飞苑社区支行',
   'fullName': '招商银行深圳腾飞苑社区支行',
   'value': ['113.952097', '22.58122'],
@@ -5784,6 +6362,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '天安云谷支行',
   'fullName': '招商银行深圳天安云谷支行',
   'value': ['114.067706', '22.658901'],
@@ -5794,6 +6373,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '田贝社区支行',
   'fullName': '招商银行深圳田贝社区支行',
   'value': ['114.123818', '22.566318'],
@@ -5804,6 +6384,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '万利达大厦社区支行',
   'fullName': '招商银行深圳万利达大厦社区支行',
   'value': ['113.933759', '22.540582'],
@@ -5814,6 +6395,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '网谷社区支行',
   'fullName': '招商银行深圳网谷社区支行',
   'value': ['113.916242', '22.491181'],
@@ -5824,6 +6406,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '威盛大厦支行',
   'fullName': '招商银行深圳威盛大厦支行',
   'value': ['113.939945', '22.54064'],
@@ -5834,6 +6417,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '维景支行',
   'fullName': '招商银行深圳维景支行',
   'value': ['114.122887', '22.54908'],
@@ -5844,6 +6428,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '文锦渡支行',
   'fullName': '招商银行深圳文锦渡支行',
   'value': ['114.135461', '22.545345'],
@@ -5854,6 +6439,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '西丽支行',
   'fullName': '招商银行深圳西丽支行',
   'value': ['113.953614', '22.581102'],
@@ -5864,6 +6450,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '向西支行',
   'fullName': '招商银行深圳向西支行',
   'value': ['114.127211', '22.541275'],
@@ -5874,6 +6461,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '新安支行',
   'fullName': '招商银行深圳新安支行',
   'value': ['113.879665', '22.559188'],
@@ -5884,6 +6472,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '新时代支行',
   'fullName': '招商银行深圳新时代支行',
   'value': ['113.91254', '22.482091'],
@@ -5894,6 +6483,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '盐田支行',
   'fullName': '招商银行深圳盐田支行',
   'value': ['114.23728', '22.55083'],
@@ -5904,6 +6494,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '阳光棕榈园社区支行',
   'fullName': '招商银行深圳阳光棕榈园社区支行',
   'value': ['113.913452', '22.527373'],
@@ -5914,6 +6505,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '愉康支行',
   'fullName': '招商银行深圳愉康支行',
   'value': ['113.924784', '22.525949'],
@@ -5924,6 +6516,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '振华支行',
   'fullName': '招商银行深圳振华支行',
   'value': ['114.088591', '22.548413'],
@@ -5934,6 +6527,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '中电支行',
   'fullName': '招商银行深圳中电支行',
   'value': ['114.086874', '22.544991'],
@@ -5944,6 +6538,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '中广核社区支行',
   'fullName': '招商银行深圳中广核社区支行',
   'value': ['114.067306', '22.542072'],
@@ -5954,6 +6549,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '中央商务支行',
   'fullName': '招商银行深圳中央商务支行',
   'value': ['114.052478', '22.537174'],
@@ -5964,6 +6560,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '坂田社区支行',
   'fullName': '招商银行深圳坂田社区支行',
   'value': ['114.057953', '22.635424'],
@@ -5974,6 +6571,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '波托菲诺支行',
   'fullName': '招商银行深圳波托菲诺支行',
   'value': ['113.976933', '22.547248'],
@@ -5984,6 +6582,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '创业支行',
   'fullName': '招商银行深圳创业支行',
   'value': ['113.910473', '22.573889'],
@@ -5994,6 +6593,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '福永支行',
   'fullName': '招商银行深圳福永支行',
   'value': ['113.807339', '22.673626'],
@@ -6004,6 +6604,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '龙华商业中心社区支行',
   'fullName': '招商银行深圳龙华商业中心社区支行',
   'value': ['114.021011', '22.654489'],
@@ -6014,6 +6615,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '万象汇社区支行',
   'fullName': '招商银行深圳万象汇社区支行',
   'value': ['114.13019', '22.59155'],
@@ -6024,6 +6626,7 @@ const banksDict = [{
   'type': '轻型/社区网点',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '益田支行',
   'fullName': '招商银行深圳益田支行',
   'value': ['114.045937', '22.515126'],
@@ -6034,6 +6637,7 @@ const banksDict = [{
   'type': '轻型/社区网点(待定)',
 }, {
   'bankName': '招商银行',
+  'category': 'cmb',
   'name': '云城支行',
   'fullName': '招商银行深圳云城支行',
   'value': ['113.940314', '22.574412'],
@@ -6044,6 +6648,7 @@ const banksDict = [{
   'type': '经营性网点',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '深圳市分行',
   'fullName': '中国银行深圳市分行',
   'value': ['114.116414', '22.541189'],
@@ -6055,6 +6660,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '龙岗支行',
   'fullName': '中国银行深圳龙岗支行',
   'value': ['114.247882', '22.723706'],
@@ -6066,6 +6672,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '中心区支行',
   'fullName': '中国银行深圳中心区支行',
   'value': ['114.062137', '22.53311'],
@@ -6077,6 +6684,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '龙华支行',
   'fullName': '中国银行深圳龙华支行',
   'value': ['114.017811', '22.659762'],
@@ -6088,6 +6696,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '宝安支行',
   'fullName': '中国银行深圳宝安支行',
   'value': ['113.880533', '22.549521'],
@@ -6099,6 +6708,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '高新区支行',
   'fullName': '中国银行深圳高新区支行',
   'value': ['113.948176', '22.538988'],
@@ -6110,6 +6720,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '上步支行',
   'fullName': '中国银行深圳上步支行',
   'value': ['114.082024', '22.542295'],
@@ -6121,6 +6732,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '前海蛇口分行',
   'fullName': '中国银行前海蛇口分行',
   'value': ['113.914555', '22.483299'],
@@ -6132,6 +6744,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '东门支行',
   'fullName': '中国银行深圳东门支行',
   'value': ['114.121931', '22.547202'],
@@ -6143,6 +6756,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '福田支行',
   'fullName': '中国银行深圳福田支行',
   'value': ['114.042048', '22.546429'],
@@ -6154,6 +6768,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '南头支行',
   'fullName': '中国银行深圳南头支行',
   'value': ['113.933604', '22.518815'],
@@ -6165,6 +6780,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '深南支行',
   'fullName': '中国银行深圳深南支行',
   'value': ['114.107427', '22.543153'],
@@ -6176,6 +6792,7 @@ const banksDict = [{
   'branch': '东门支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '东部支行',
   'fullName': '中国银行深圳东部支行',
   'value': ['114.231313', '22.548814'],
@@ -6187,6 +6804,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '罗湖支行',
   'fullName': '中国银行深圳罗湖支行',
   'value': ['114.110279', '22.547027'],
@@ -6198,6 +6816,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '布吉支行',
   'fullName': '中国银行深圳布吉支行',
   'value': ['114.128222', '22.607613'],
@@ -6209,6 +6828,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '福永支行',
   'fullName': '中国银行深圳福永支行',
   'value': ['113.825379', '22.671841'],
@@ -6220,6 +6840,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '光明支行',
   'fullName': '中国银行深圳光明支行',
   'value': ['113.945197', '22.762804'],
@@ -6231,6 +6852,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '中建大厦支行',
   'fullName': '中国银行深圳中建大厦支行',
   'value': ['114.122698', '22.543241'],
@@ -6242,6 +6864,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '沙井支行',
   'fullName': '中国银行深圳沙井支行',
   'value': ['113.801305', '22.729595'],
@@ -6253,6 +6876,7 @@ const banksDict = [{
   'branch': '福永支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '文锦广场支行',
   'fullName': '中国银行深圳文锦广场支行',
   'value': ['114.12529', '22.557807'],
@@ -6264,6 +6888,7 @@ const banksDict = [{
   'branch': '东门支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '公明支行',
   'fullName': '中国银行深圳公明支行',
   'value': ['113.905302', '22.773846'],
@@ -6275,6 +6900,7 @@ const banksDict = [{
   'branch': '光明支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '招商路支行',
   'fullName': '中国银行深圳招商路支行',
   'value': ['113.925054', '22.490546'],
@@ -6286,6 +6912,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '万科城支行',
   'fullName': '中国银行深圳万科城支行',
   'value': ['114.067434', '22.650044'],
@@ -6297,6 +6924,7 @@ const banksDict = [{
   'branch': '布吉支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '科技园支行',
   'fullName': '中国银行深圳科技园支行',
   'value': ['113.944736', '22.546394'],
@@ -6308,6 +6936,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '人民南路支行',
   'fullName': '中国银行深圳人民南路支行',
   'value': ['114.118553', '22.534655'],
@@ -6319,6 +6948,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '文锦渡支行',
   'fullName': '中国银行深圳文锦渡支行',
   'value': ['114.129345', '22.545271'],
@@ -6330,6 +6960,7 @@ const banksDict = [{
   'branch': '东门支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '沙河支行',
   'fullName': '中国银行深圳沙河支行',
   'value': ['113.989567', '22.534083'],
@@ -6341,6 +6972,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '地铁支行',
   'fullName': '中国银行深圳地铁支行',
   'value': ['114.118529', '22.529414'],
@@ -6352,6 +6984,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '石岩支行',
   'fullName': '中国银行深圳石岩支行',
   'value': ['113.939789', '22.679315'],
@@ -6363,6 +6996,7 @@ const banksDict = [{
   'branch': '龙华支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '坪山支行',
   'fullName': '中国银行深圳坪山支行',
   'value': ['114.33841', '22.684724'],
@@ -6374,6 +7008,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '西丽支行',
   'fullName': '中国银行深圳西丽支行',
   'value': ['113.953809', '22.581138'],
@@ -6385,6 +7020,7 @@ const banksDict = [{
   'branch': '南头支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '锦绣支行',
   'fullName': '中国银行深圳锦绣支行',
   'value': ['114.026852', '22.635021'],
@@ -6396,6 +7032,7 @@ const banksDict = [{
   'branch': '龙华支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '中银花园支行',
   'fullName': '中国银行深圳中银花园支行',
   'value': ['114.067403', '22.547189'],
@@ -6407,6 +7044,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '机场支行',
   'fullName': '中国银行深圳机场支行',
   'value': ['113.826666', '22.644477'],
@@ -6418,6 +7056,7 @@ const banksDict = [{
   'branch': '福永支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '新安支行',
   'fullName': '中国银行深圳新安支行',
   'value': ['113.889383', '22.555841'],
@@ -6429,6 +7068,7 @@ const banksDict = [{
   'branch': '宝安支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '北方大厦支行',
   'fullName': '中国银行深圳北方大厦支行',
   'value': ['114.085115', '22.540143'],
@@ -6440,6 +7080,7 @@ const banksDict = [{
   'branch': '上步支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '万象支行',
   'fullName': '中国银行深圳万象支行',
   'value': ['114.11205', '22.539467'],
@@ -6451,6 +7092,7 @@ const banksDict = [{
   'branch': '东门支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '蛇口网谷支行',
   'fullName': '中国银行深圳蛇口网谷支行',
   'value': ['113.92029', '22.497145'],
@@ -6462,6 +7104,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '松岗东方支行',
   'fullName': '中国银行深圳松岗东方支行',
   'value': ['113.845236', '22.765943'],
@@ -6473,6 +7116,7 @@ const banksDict = [{
   'branch': '福永支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '彩虹支行',
   'fullName': '中国银行深圳彩虹支行',
   'value': ['114.1093', '22.565233'],
@@ -6484,6 +7128,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '坂田支行',
   'fullName': '中国银行深圳坂田支行',
   'value': ['114.068486', '22.636116'],
@@ -6495,6 +7140,7 @@ const banksDict = [{
   'branch': '布吉支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '梅林支行',
   'fullName': '中国银行深圳梅林支行',
   'value': ['114.061516', '22.56825'],
@@ -6506,6 +7152,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '国贸支行',
   'fullName': '中国银行深圳国贸支行',
   'value': ['114.119802', '22.54088'],
@@ -6517,6 +7164,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '龙城支行',
   'fullName': '中国银行深圳龙城支行',
   'value': ['114.232629', '22.721891'],
@@ -6528,6 +7176,7 @@ const banksDict = [{
   'branch': '龙岗支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '皇岗商务中心支行',
   'fullName': '中国银行深圳皇岗商务中心支行',
   'value': ['114.0646', '22.531234'],
@@ -6539,6 +7188,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '艺园路支行',
   'fullName': '中国银行深圳艺园路支行',
   'value': ['113.927106', '22.542294'],
@@ -6550,6 +7200,7 @@ const banksDict = [{
   'branch': '南头支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '平湖支行',
   'fullName': '中国银行深圳平湖支行',
   'value': ['114.144522', '22.695262'],
@@ -6561,6 +7212,7 @@ const banksDict = [{
   'branch': '布吉支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '建安路支行',
   'fullName': '中国银行深圳建安路支行',
   'value': ['113.910131', '22.557931'],
@@ -6572,6 +7224,7 @@ const banksDict = [{
   'branch': '宝安支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '莲塘支行',
   'fullName': '中国银行深圳莲塘支行',
   'value': ['114.172266', '22.560433'],
@@ -6583,6 +7236,7 @@ const banksDict = [{
   'branch': '东部支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '福建大厦支行',
   'fullName': '中国银行深圳福建大厦支行',
   'value': ['114.068897', '22.533422'],
@@ -6594,6 +7248,7 @@ const banksDict = [{
   'branch': '中心区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '观澜支行',
   'fullName': '中国银行深圳观澜支行',
   'value': ['114.049491', '22.702101'],
@@ -6605,6 +7260,7 @@ const banksDict = [{
   'branch': '龙华支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '内环支行',
   'fullName': '中国银行深圳内环支行',
   'value': ['113.92522', '22.515573'],
@@ -6616,6 +7272,7 @@ const banksDict = [{
   'branch': '南头支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '东海支行',
   'fullName': '中国银行深圳东海支行',
   'value': ['114.021522', '22.536258'],
@@ -6627,6 +7284,7 @@ const banksDict = [{
   'branch': '中心区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '坑梓支行',
   'fullName': '中国银行深圳坑梓支行',
   'value': ['114.371304', '22.744287'],
@@ -6638,6 +7296,7 @@ const banksDict = [{
   'branch': '坪山支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '桃源居支行',
   'fullName': '中国银行深圳桃源居支行',
   'value': ['113.860279', '22.615396'],
@@ -6649,6 +7308,7 @@ const banksDict = [{
   'branch': '宝安支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '中兴支行',
   'fullName': '中国银行深圳中兴支行',
   'value': ['113.948873', '22.535887'],
@@ -6660,6 +7320,7 @@ const banksDict = [{
   'branch': '上步支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '鹏龙支行',
   'fullName': '中国银行深圳鹏龙支行',
   'value': ['113.929911', '22.518655'],
@@ -6671,6 +7332,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '沙头角保税区支行',
   'fullName': '中国银行深圳沙头角保税区支行',
   'value': ['114.237644', '22.558272'],
@@ -6682,6 +7344,7 @@ const banksDict = [{
   'branch': '东部支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '华丽支行',
   'fullName': '中国银行深圳华丽支行',
   'value': ['114.134737', '22.552245'],
@@ -6693,6 +7356,7 @@ const banksDict = [{
   'branch': '东门支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '红岭支行',
   'fullName': '中国银行深圳红岭支行',
   'value': ['114.104511', '22.540001'],
@@ -6704,6 +7368,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '波托菲诺支行',
   'fullName': '中国银行深圳波托菲诺支行',
   'value': ['113.97673', '22.547589'],
@@ -6715,6 +7380,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '新沙支行',
   'fullName': '中国银行深圳新沙支行',
   'value': ['113.829954', '22.730226'],
@@ -6726,6 +7392,7 @@ const banksDict = [{
   'branch': '福永支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '天安支行',
   'fullName': '中国银行深圳天安支行',
   'value': ['114.030795', '22.532438'],
@@ -6737,6 +7404,7 @@ const banksDict = [{
   'branch': '中心区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '前进支行',
   'fullName': '中国银行深圳前进支行',
   'value': ['113.898642', '22.573581'],
@@ -6748,6 +7416,7 @@ const banksDict = [{
   'branch': '宝安支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '福强支行',
   'fullName': '中国银行深圳福强支行',
   'value': ['114.066223', '22.519916'],
@@ -6759,6 +7428,7 @@ const banksDict = [{
   'branch': '中心区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '梅丽支行',
   'fullName': '中国银行深圳梅丽支行',
   'value': ['114.039547', '22.56536'],
@@ -6770,6 +7440,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '西乡支行',
   'fullName': '中国银行深圳西乡支行',
   'value': ['113.862777', '22.57265'],
@@ -6781,6 +7452,7 @@ const banksDict = [{
   'branch': '宝安支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '长城支行',
   'fullName': '中国银行深圳长城支行',
   'value': ['114.091489', '22.550716'],
@@ -6792,6 +7464,7 @@ const banksDict = [{
   'branch': '上步支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '新城支行',
   'fullName': '中国银行深圳新城支行',
   'value': ['113.8989', '22.556298'],
@@ -6803,6 +7476,7 @@ const banksDict = [{
   'branch': '宝安支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '南油支行',
   'fullName': '中国银行深圳南油支行',
   'value': ['113.926246', '22.505139'],
@@ -6814,6 +7488,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '龙兴支行',
   'fullName': '中国银行深圳龙兴支行',
   'value': ['114.270047', '22.723882'],
@@ -6825,6 +7500,7 @@ const banksDict = [{
   'branch': '龙岗支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '横岗支行',
   'fullName': '中国银行深圳横岗支行',
   'value': ['114.211457', '22.64777'],
@@ -6836,6 +7512,7 @@ const banksDict = [{
   'branch': '布吉支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '南山支行',
   'fullName': '中国银行深圳南山支行',
   'value': ['113.922906', '22.52275'],
@@ -6847,6 +7524,7 @@ const banksDict = [{
   'branch': '南头支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '六约支行',
   'fullName': '中国银行深圳六约支行',
   'value': ['114.195349', '22.646476'],
@@ -6858,6 +7536,7 @@ const banksDict = [{
   'branch': '布吉支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '新秀支行',
   'fullName': '中国银行深圳新秀支行',
   'value': ['114.145216', '22.547343'],
@@ -6869,6 +7548,7 @@ const banksDict = [{
   'branch': '东部支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '时代金融中心支行',
   'fullName': '中国银行深圳时代金融中心支行',
   'value': ['114.054858', '22.537979'],
@@ -6880,6 +7560,7 @@ const banksDict = [{
   'branch': '上步支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '河套皇岗支行',
   'fullName': '中国银行深圳河套皇岗支行',
   'value': ['114.07615', '22.525304'],
@@ -6891,6 +7572,7 @@ const banksDict = [{
   'branch': '-',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '罗岗支行',
   'fullName': '中国银行深圳罗岗支行',
   'value': ['114.122375', '22.598131'],
@@ -6902,6 +7584,7 @@ const banksDict = [{
   'branch': '布吉支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '龙珠支行',
   'fullName': '中国银行深圳龙珠支行',
   'value': ['113.983019', '22.560005'],
@@ -6913,6 +7596,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '英达花园支行',
   'fullName': '中国银行深圳英达花园支行',
   'value': ['114.121606', '22.576196'],
@@ -6924,6 +7608,7 @@ const banksDict = [{
   'branch': '布吉支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '坪地支行',
   'fullName': '中国银行深圳坪地支行',
   'value': ['114.310436', '22.770595'],
@@ -6935,6 +7620,7 @@ const banksDict = [{
   'branch': '龙岗支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '深圳湾支行',
   'fullName': '中国银行深圳深圳湾支行',
   'value': ['113.970256', '22.5306'],
@@ -6946,6 +7632,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '民治支行',
   'fullName': '中国银行深圳民治支行',
   'value': ['114.045772', '22.609409'],
@@ -6957,6 +7644,7 @@ const banksDict = [{
   'branch': '龙华支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '桃园路支行',
   'fullName': '中国银行深圳桃园路支行',
   'value': ['113.926874', '22.532686'],
@@ -6968,6 +7656,7 @@ const banksDict = [{
   'branch': '南头支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '翠竹北路支行',
   'fullName': '中国银行深圳翠竹北路支行',
   'value': ['114.12637', '22.573184'],
@@ -6979,6 +7668,7 @@ const banksDict = [{
   'branch': '东部支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '荔园支行',
   'fullName': '中国银行深圳荔园支行',
   'value': ['114.097334', '22.545133'],
@@ -6990,6 +7680,7 @@ const banksDict = [{
   'branch': '上步支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '华南城支行',
   'fullName': '中国银行深圳华南城支行',
   'value': ['114.12424', '22.675853'],
@@ -7001,6 +7692,7 @@ const banksDict = [{
   'branch': '龙华支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '大鹏支行',
   'fullName': '中国银行深圳大鹏支行',
   'value': ['114.475803', '22.592568'],
@@ -7012,6 +7704,7 @@ const banksDict = [{
   'branch': '坪山支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '侨城支行',
   'fullName': '中国银行深圳侨城支行',
   'value': ['113.968755', '22.540424'],
@@ -7023,6 +7716,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '前海支行',
   'fullName': '中国银行深圳前海支行',
   'value': ['113.914833', '22.528628'],
@@ -7034,6 +7728,7 @@ const banksDict = [{
   'branch': '南头支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '黄木岗支行',
   'fullName': '中国银行深圳黄木岗支行',
   'value': ['114.085238', '22.554901'],
@@ -7045,6 +7740,7 @@ const banksDict = [{
   'branch': '上步支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '侨香支行',
   'fullName': '中国银行深圳侨香支行',
   'value': ['114.015132', '22.550435'],
@@ -7056,6 +7752,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '东乐支行',
   'fullName': '中国银行深圳东乐支行',
   'value': ['114.13556', '22.571981'],
@@ -7067,6 +7764,7 @@ const banksDict = [{
   'branch': '东门支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '后海支行',
   'fullName': '中国银行深圳后海支行',
   'value': ['113.932931', '22.510182'],
@@ -7078,6 +7776,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '东滨路支行',
   'fullName': '中国银行深圳东滨路支行',
   'value': ['113.914367', '22.511546'],
@@ -7089,6 +7788,7 @@ const banksDict = [{
   'branch': '南头支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '大浪支行',
   'fullName': '中国银行深圳大浪支行',
   'value': ['113.996338', '22.675011'],
@@ -7100,6 +7800,7 @@ const banksDict = [{
   'branch': '龙华支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '香蜜支行',
   'fullName': '中国银行深圳香蜜支行',
   'value': ['114.019044', '22.5402'],
@@ -7111,6 +7812,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '市民中心支行',
   'fullName': '中国银行深圳市民中心支行',
   'value': ['114.059825', '22.543534'],
@@ -7122,6 +7824,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '滨河支行',
   'fullName': '中国银行深圳滨河支行',
   'value': ['114.094621', '22.538941'],
@@ -7133,6 +7836,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '水贝支行',
   'fullName': '中国银行深圳水贝支行',
   'value': ['114.126115', '22.566521'],
@@ -7144,6 +7848,7 @@ const banksDict = [{
   'branch': '东门支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '金地支行',
   'fullName': '中国银行深圳金地支行',
   'value': ['114.040534', '22.526974'],
@@ -7155,6 +7860,7 @@ const banksDict = [{
   'branch': '中心区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '笋岗支行',
   'fullName': '中国银行深圳笋岗支行',
   'value': ['114.107035', '22.555253'],
@@ -7166,6 +7872,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '公园大地支行',
   'fullName': '中国银行深圳公园大地支行',
   'value': ['114.233475', '22.707059'],
@@ -7177,6 +7884,7 @@ const banksDict = [{
   'branch': '龙岗支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '福华支行',
   'fullName': '中国银行深圳福华支行',
   'value': ['114.054941', '22.532249'],
@@ -7188,6 +7896,7 @@ const banksDict = [{
   'branch': '中心区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '布心支行',
   'fullName': '中国银行深圳布心支行',
   'value': ['114.142485', '22.578234'],
@@ -7199,6 +7908,7 @@ const banksDict = [{
   'branch': '东门支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '流塘支行',
   'fullName': '中国银行深圳流塘支行',
   'value': ['113.879903', '22.583212'],
@@ -7210,6 +7920,7 @@ const banksDict = [{
   'branch': '宝安支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '科苑路支行',
   'fullName': '中国银行深圳科苑路支行',
   'value': ['113.945057', '22.528098'],
@@ -7221,6 +7932,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '蚝乡支行',
   'fullName': '中国银行深圳蚝乡支行',
   'value': ['113.796584', '22.739739'],
@@ -7232,6 +7944,7 @@ const banksDict = [{
   'branch': '福永支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '福民支行',
   'fullName': '中国银行深圳福民支行',
   'value': ['114.053393', '22.523601'],
@@ -7243,6 +7956,7 @@ const banksDict = [{
   'branch': '中心区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '水库新村支行',
   'fullName': '中国银行深圳水库新村支行',
   'value': ['114.140002', '22.561925'],
@@ -7254,6 +7968,7 @@ const banksDict = [{
   'branch': '东门支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '金港支行',
   'fullName': '中国银行深圳金港支行',
   'value': ['114.254976', '22.589527'],
@@ -7265,6 +7980,7 @@ const banksDict = [{
   'branch': '东部支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '松安支行',
   'fullName': '中国银行深圳松安支行',
   'value': ['113.822176', '22.770528'],
@@ -7276,6 +7992,7 @@ const banksDict = [{
   'branch': '福永支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '东角头支行',
   'fullName': '中国银行深圳东角头支行',
   'value': ['113.931544', '22.486404'],
@@ -7287,6 +8004,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '华润城支行',
   'fullName': '中国银行深圳华润城支行',
   'value': ['113.953684', '22.541077'],
@@ -7298,6 +8016,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '向西路支行',
   'fullName': '中国银行深圳向西路支行',
   'value': ['114.125651', '22.541615'],
@@ -7309,6 +8028,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '葵涌支行',
   'fullName': '中国银行深圳葵涌支行',
   'value': ['114.420086', '22.629411'],
@@ -7320,6 +8040,7 @@ const banksDict = [{
   'branch': '坪山支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '景田北支行',
   'fullName': '中国银行深圳景田北支行',
   'value': ['114.035493', '22.555042'],
@@ -7331,6 +8052,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '桥和支行',
   'fullName': '中国银行深圳桥和支行',
   'value': ['113.788674', '22.687812'],
@@ -7342,6 +8064,7 @@ const banksDict = [{
   'branch': '福永支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '沿河南支行',
   'fullName': '中国银行深圳沿河南支行',
   'value': ['114.128266', '22.538349'],
@@ -7353,6 +8076,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '竹子林支行',
   'fullName': '中国银行深圳竹子林支行',
   'value': ['114.008895', '22.534562'],
@@ -7364,6 +8088,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '赛格广场支行',
   'fullName': '中国银行深圳赛格广场支行',
   'value': ['114.08713', '22.541272'],
@@ -7375,6 +8100,7 @@ const banksDict = [{
   'branch': '上步支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '高新北支行',
   'fullName': '中国银行深圳高新北支行',
   'value': ['113.95186', '22.554341'],
@@ -7386,6 +8112,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '曦湾支行',
   'fullName': '中国银行深圳曦湾支行',
   'value': ['113.940964', '22.501465'],
@@ -7397,6 +8124,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '福田保税区支行',
   'fullName': '中国银行深圳福田保税区支行',
   'value': ['114.051187', '22.509351'],
@@ -7408,6 +8136,7 @@ const banksDict = [{
   'branch': '河套皇岗支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '西部通道支行',
   'fullName': '中国银行深圳西部通道支行',
   'value': ['113.94961', '22.50321'],
@@ -7419,6 +8148,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '大芬支行',
   'fullName': '中国银行深圳大芬支行',
   'value': ['114.138305', '22.612714'],
@@ -7430,6 +8160,7 @@ const banksDict = [{
   'branch': '布吉支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '大运城支行',
   'fullName': '中国银行深圳大运城支行',
   'value': ['114.217265', '22.721936'],
@@ -7441,6 +8172,7 @@ const banksDict = [{
   'branch': '龙岗支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '金沙支行',
   'fullName': '中国银行深圳金沙支行',
   'value': ['114.03584', '22.52149'],
@@ -7452,6 +8184,7 @@ const banksDict = [{
   'branch': '中心区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '泰然金谷支行',
   'fullName': '中国银行深圳泰然金谷支行',
   'value': ['114.024184', '22.531958'],
@@ -7463,6 +8196,7 @@ const banksDict = [{
   'branch': '中心区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '福田口岸支行',
   'fullName': '中国银行深圳福田口岸支行',
   'value': ['114.070118', '22.515979'],
@@ -7474,6 +8208,7 @@ const banksDict = [{
   'branch': '河套皇岗支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '前海湾支行',
   'fullName': '中国银行深圳前海湾支行',
   'value': ['113.90223', '22.518045'],
@@ -7485,6 +8220,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '幸福支行',
   'fullName': '中国银行深圳幸福支行',
   'value': ['113.880596', '22.560361'],
@@ -7496,6 +8232,7 @@ const banksDict = [{
   'branch': '宝安支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '深大支行',
   'fullName': '中国银行深圳深大支行',
   'value': ['113.936023', '22.533073'],
@@ -7507,6 +8244,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '证券交易所支行',
   'fullName': '中国银行深圳证券交易所支行',
   'value': ['114.05317', '22.541835'],
@@ -7518,6 +8256,7 @@ const banksDict = [{
   'branch': '上步支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '罗湖联检楼支行',
   'fullName': '中国银行深圳罗湖联检楼支行',
   'value': ['114.118632', '22.528716'],
@@ -7529,6 +8268,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '福星支行',
   'fullName': '中国银行深圳福星支行',
   'value': ['114.077601', '22.532486'],
@@ -7540,6 +8280,7 @@ const banksDict = [{
   'branch': '中心区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '振业城支行',
   'fullName': '中国银行深圳振业城支行',
   'value': ['114.181152', '22.635073'],
@@ -7551,6 +8292,7 @@ const banksDict = [{
   'branch': '布吉支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '宝源支行',
   'fullName': '中国银行深圳宝源支行',
   'value': ['113.853145', '22.573405'],
@@ -7562,6 +8304,7 @@ const banksDict = [{
   'branch': '宝安支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '中海油大厦支行',
   'fullName': '中国银行深圳中海油大厦支行',
   'value': ['113.939484', '22.512855'],
@@ -7573,6 +8316,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '莲塘口岸支行',
   'fullName': '中国银行深圳莲塘口岸支行',
   'value': ['114.158224', '22.554536'],
@@ -7584,6 +8328,7 @@ const banksDict = [{
   'branch': '东部支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '可园支行',
   'fullName': '中国银行深圳可园支行',
   'value': ['114.135949', '22.601382'],
@@ -7595,6 +8340,7 @@ const banksDict = [{
   'branch': '布吉支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '西荟城支行',
   'fullName': '中国银行深圳西荟城支行',
   'value': ['113.815608', '22.733036'],
@@ -7606,6 +8352,7 @@ const banksDict = [{
   'branch': '福永支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '坪山新区支行',
   'fullName': '中国银行深圳坪山新区支行',
   'value': ['114.344096', '22.705883'],
@@ -7617,6 +8364,7 @@ const banksDict = [{
   'branch': '坪山支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '太子湾支行',
   'fullName': '中国银行深圳太子湾支行',
   'value': ['113.913608', '22.469386'],
@@ -7628,6 +8376,7 @@ const banksDict = [{
   'branch': '前海蛇口分行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '大学城支行',
   'fullName': '中国银行深圳大学城支行',
   'value': ['114.000583', '22.59154'],
@@ -7639,6 +8388,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '腾龙支行',
   'fullName': '中国银行深圳腾龙支行',
   'value': ['114.21974', '22.68859'],
@@ -7650,6 +8400,7 @@ const banksDict = [{
   'branch': '福田支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '深港支行',
   'fullName': '中国银行深圳深港支行',
   'value': ['114.117929', '22.530092'],
@@ -7661,6 +8412,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '阿里大厦支行',
   'fullName': '中国银行深圳阿里大厦支行',
   'value': ['113.943448', '22.509203'],
@@ -7672,6 +8424,7 @@ const banksDict = [{
   'branch': '罗湖支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '教育核算中心支行',
   'fullName': '中国银行深圳教育核算中心支行',
   'value': ['114.095765', '22.56585'],
@@ -7683,6 +8436,7 @@ const banksDict = [{
   'branch': '东门支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '田寮支行',
   'fullName': '中国银行深圳田寮支行',
   'value': ['113.902588', '22.724192'],
@@ -7694,6 +8448,7 @@ const banksDict = [{
   'branch': '光明支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '深大西丽校区支行',
   'fullName': '中国银行深圳深大西丽校区支行',
   'value': ['113.98888', '22.597144'],
@@ -7705,6 +8460,7 @@ const banksDict = [{
   'branch': '高新区支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '清湖支行',
   'fullName': '中国银行深圳清湖支行',
   'value': ['114.036358', '22.662953'],
@@ -7716,6 +8472,7 @@ const banksDict = [{
   'branch': '龙华支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '联投东方支行',
   'fullName': '中国银行深圳联投东方支行',
   'value': ['113.812102', '22.624783'],
@@ -7727,6 +8484,7 @@ const banksDict = [{
   'branch': '福永支行',
 }, {
   'bankName': '中国银行',
+  'category': 'boc',
   'name': '龙悦居支行',
   'fullName': '中国银行深圳龙悦居支行',
   'value': ['114.025779', '22.619642'],
