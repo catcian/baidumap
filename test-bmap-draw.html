@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script language="JavaScript" src="dict/bankLocation.js"></script>
+    <script language="JavaScript" src="./dict/bankLocation.js"></script>
     <script language="JavaScript" src="lib/utils.js"></script>
     <title>BMap</title>
     <style>
@@ -49,7 +49,7 @@
     map.enableScrollWheelZoom(true)
 
     // 图标
-    const icon = new BMapGL.Icon("https://www.youbaobao.xyz/datav-res/datav/location.png",
+    const icon = new BMapGL.Icon("./images/boc-location.png",
       new BMapGL.Size(25, 25), {},
     )
     const marker = new BMapGL.Marker(point, {icon:icon})
