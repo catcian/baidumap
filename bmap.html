@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script language="JavaScript" src="./dict/bankLocation.js"></script>
     <script language="JavaScript" src="lib/utils.js"></script>
-    <script src="lib/ramda.min.js"></script>
+    <script src="utils/ramda.min.js"></script>
     <title>BMap</title>
     <style>
         html, body {
@@ -32,13 +32,13 @@
     </style>
 </head>
 <body>
-<!--<img src="images/boc-location.png">-->
+<!--<img src="images/boc.png">-->
 <div id="map"></div>
 <script type="text/javascript">
   function init() {
     const MapOptions = {
-      minZoom: 8,
-      maxZoom: 20,
+      // minZoom: 8,
+      // maxZoom: 20,
       mapType: BMAP_NORMAL_MAP,
     }
 
@@ -51,14 +51,6 @@
     map.centerAndZoom(point, 14)
     map.enableScrollWheelZoom(true)
 
-    // const img = './images/boc-location.png'
-    // const icon = new BMapGL.Icon(img,
-    //   new BMapGL.Size(25, 25), {},
-    // )
-    // console.log(icon)
-    // const marker = new BMapGL.Marker(point, { icon: icon })
-    // map.addOverlay(marker)
-
     R.map((bank, index) => {
       const long = R.pathOr('', ['long'], bank)
       const lat = R.pathOr('', ['lat'], bank)
@@ -66,31 +58,17 @@
       const category = R.pathOr('', ['category'], bank)
       const transArr = qqMapToBMap(long, lat)
       const point = new BMapGL.Point(Number(transArr[0]), Number(transArr[1]))
-      let img = ''
-      if (R.equals(category, 'boc')) {
-        img = './images/boc-location.png'
-      }
-      if (R.equals(category, 'abc')) {
-        img = './images/abc-location.png'
-      }
-      if (R.equals(category, 'ccb')) {
-        img = './images/ccb-location.png'
-      }
-      if (R.equals(category, 'cmb')) {
-        img = './images/cmb-location.png'
-      }
-      if (R.equals(category, 'comm')) {
-        img = './images/comm-location.png'
-      }
-      if (R.equals(category, 'icbc')) {
-        img = './images/icbc-location.png'
-      }
+
+      const img = `./images/${category}.png`
+
       const icon = new BMapGL.Icon(img,
         new BMapGL.Size(25, 25), {},
       )
       const marker = new BMapGL.Marker(point, { icon: icon })
       map.addOverlay(marker)
     })(banksDict)
+
+    map.addEventListener('')
 
 
   }
